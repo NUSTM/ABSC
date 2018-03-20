@@ -3,7 +3,7 @@
 ## Introduction
 
 This is the source code of our paper "Zheng S, Xia R. Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention. arXiv preprint arXiv:1802.00892, 2018.".
-Meanwhile, we provide the codes of other papers' models.
+Meanwhile, we provide the codes of other papers' models which we implement by [Tensorflow](https://tensorflow.org).
 
 ## Recent Papers
 
