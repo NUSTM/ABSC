@@ -25,7 +25,7 @@ Meanwhile, we provide the codes of other papers' models.
 6. [Recurrent Attention Network on Memory for Aspect Sentiment Analysis](http://www.aclweb.org/anthology/D17-1048)
 
     Peng Chen, Zhongqian Sun, Lidong Bing, Wei Yang (EMNLP 2017, full paper)
-7. [Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention](https://arxiv.org/abs/1802.00892)
+7. [**Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention**](https://arxiv.org/abs/1802.00892)
     Shiliang Zheng, Rui Xia
 
 
