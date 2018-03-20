@@ -1,0 +1,642 @@
+computer screen||positive||i/3 think/2 the/1 is/1 very/1 nice/1 but/1 the/1 operating/1 system/1 is/1 slow/1 ./1 
+operating system||negative||i/10 think/9 the/8 computer/7 screen/6 is/5 very/4 nice/3 but/2 the/1 is/1 slow/1 ./1 
+battery life||positive||i/6 am/5 pleased/4 with/3 the/2 great/1 ,/1 but/1 the/1 windows/1 8/1 operating/1 system/1 is/1 difficult/1 to/1 use/1 ./1 
+windows 8 operating system||negative||i/11 am/10 pleased/9 with/8 the/7 great/6 battery/5 life/4 ,/3 but/2 the/1 is/1 difficult/1 to/1 use/1 ./1 
+Boot time||positive||is/1 super/1 fast/1 ,/1 around/1 anywhere/1 from/1 35/1 seconds/1 to/1 1/1 minute/1 ./1 
+tech support||negative||would/1 not/1 fix/1 the/1 problem/1 unless/1 i/1 bought/1 your/1 plan/1 for/1 $/1 150/1 plus/1 ./1 
+Set up||positive||was/1 easy/1 ./1 
+Windows 8||negative||did/5 not/4 enjoy/3 the/2 new/1 and/1 touchscreen/1 functions/1 ./1 
+touchscreen functions||negative||did/8 not/7 enjoy/6 the/5 new/4 windows/3 8/2 and/1 ./1 
+internal speakers||negative||other/18 than/17 not/16 being/15 a/14 fan/13 of/12 click/11 pads/10 (/9 industry/8 standard/7 these/6 days/5 )/4 and/3 the/2 lousy/1 ,/1 it/1 's/1 hard/1 for/1 me/1 to/1 find/1 things/1 about/1 this/1 notebook/1 i/1 do/1 n't/1 like/1 ,/1 especially/1 considering/1 the/1 $/1 350/1 price/1 tag/1 ./1 
+price tag||positive||other/42 than/41 not/40 being/39 a/38 fan/37 of/36 click/35 pads/34 (/33 industry/32 standard/31 these/30 days/29 )/28 and/27 the/26 lousy/25 internal/24 speakers/23 ,/22 it/21 's/20 hard/19 for/18 me/17 to/16 find/15 things/14 about/13 this/12 notebook/11 i/10 do/9 n't/8 like/7 ,/6 especially/5 considering/4 the/3 $/2 350/1 ./1 
+click pads||negative||other/7 than/6 not/5 being/4 a/3 fan/2 of/1 (/1 industry/1 standard/1 these/1 days/1 )/1 and/1 the/1 lousy/1 internal/1 speakers/1 ,/1 it/1 's/1 hard/1 for/1 me/1 to/1 find/1 things/1 about/1 this/1 notebook/1 i/1 do/1 n't/1 like/1 ,/1 especially/1 considering/1 the/1 $/1 350/1 price/1 tag/1 ./1 
+installation disk ( DVD )||neutral||no/1 is/1 included/1 ./1 
+use||positive||it/9 's/8 fast/7 ,/6 light/5 ,/4 and/3 simple/2 to/1 ./1 
+Works||positive||well/1 ,/1 and/1 i/1 am/1 extremely/1 happy/1 to/1 be/1 back/1 to/1 an/1 apple/1 os/1 ./1 
+apple OS||positive||works/13 well/12 ,/11 and/10 i/9 am/8 extremely/7 happy/6 to/5 be/4 back/3 to/2 an/1 ./1 
+features||positive||sure/9 it/8 's/7 not/6 light/5 and/4 slim/3 but/2 the/1 make/1 up/1 for/1 it/1 100/1 %/1 ./1 
+log on||positive||i/6 am/5 pleased/4 with/3 the/2 fast/1 ,/1 speedy/1 wifi/1 connection/1 and/1 the/1 long/1 battery/1 life/1 (/1 >/1 6/1 hrs/1 )/1 ./1 
+WiFi connection||positive||i/10 am/9 pleased/8 with/7 the/6 fast/5 log/4 on/3 ,/2 speedy/1 and/1 the/1 long/1 battery/1 life/1 (/1 >/1 6/1 hrs/1 )/1 ./1 
+battery life||positive||i/15 am/14 pleased/13 with/12 the/11 fast/10 log/9 on/8 ,/7 speedy/6 wifi/5 connection/4 and/3 the/2 long/1 (/1 >/1 6/1 hrs/1 )/1 ./1 
+delete key||negative||the/8 apple/7 engineers/6 have/5 not/4 yet/3 discovered/2 the/1 ./1 
+interneting||negative||made/1 (/1 part/1 of/1 my/1 business/1 )/1 very/1 difficult/1 to/1 maintain/1 ./1 
+priced||positive||luckily/14 ,/13 for/12 all/11 of/10 us/9 contemplating/8 the/7 decision/6 ,/5 the/4 mac/3 mini/2 is/1 just/1 right/1 ./1 
+works||positive||super/8 light/7 ,/6 super/5 sexy/4 and/3 everything/2 just/1 ./1 
+track pad||negative||only/8 problem/7 that/6 i/5 had/4 was/3 that/2 the/1 was/1 not/1 very/1 good/1 for/1 me/1 ,/1 i/1 only/1 had/1 a/1 problem/1 once/1 or/1 twice/1 with/1 it/1 ,/1 but/1 probably/1 my/1 computer/1 was/1 a/1 bit/1 defective/1 ./1 
+graphics||positive||it/7 is/6 super/5 fast/4 and/3 has/2 outstanding/1 ./1 
+mountain lion||negative||but/2 the/1 is/1 just/1 too/1 slow/1 ./1 
+durability||positive||strong/8 build/7 though/6 which/5 really/4 adds/3 to/2 its/1 ./1 
+build||positive||strong/1 though/1 which/1 really/1 adds/1 to/1 its/1 durability/1 ./1 
+battery life||positive||the/1 is/1 excellent-/1 6-7/1 hours/1 without/1 charging/1 ./1 
+works||positive||i/11 've/10 had/9 my/8 computer/7 for/6 2/5 weeks/4 already/3 and/2 it/1 perfectly/1 ./1 
+Windows 8||positive||and/12 i/11 may/10 be/9 the/8 only/7 one/6 but/5 i/4 am/3 really/2 liking/1 ./1 
+baterry||positive||the/1 is/1 very/1 longer/1 ./1 
+size||positive||its/1 is/1 ideal/1 and/1 the/1 weight/1 is/1 acceptable/1 ./1 
+weight||positive||its/6 size/5 is/4 ideal/3 and/2 the/1 is/1 acceptable/1 ./1 
+performance||positive||i/10 can/9 say/8 that/7 i/6 am/5 fully/4 satisfied/3 with/2 the/1 that/1 the/1 computer/1 has/1 supplied/1 ./1 
+USB ports||negative||this/5 laptop/4 has/3 only/2 2/1 ,/1 and/1 they/1 are/1 both/1 on/1 the/1 same/1 side/1 ./1 
+speed||positive||it/5 has/4 so/3 much/2 more/1 and/1 the/1 screen/1 is/1 very/1 sharp/1 ./1 
+screen||positive||it/8 has/7 so/6 much/5 more/4 speed/3 and/2 the/1 is/1 very/1 sharp/1 ./1 
+price||positive||everything/9 i/8 wanted/7 and/6 everything/5 i/4 needed/3 and/2 the/1 was/1 great/1 !/1 
+Hardware performance||positive||it/6 's/5 not/4 inexpensive/3 but/2 the/1 is/1 impressive/1 for/1 a/1 computer/1 this/1 small/1 ./1 
+works||positive||this/7 thing/6 is/5 awesome/4 ,/3 everything/2 always/1 ,/1 everything/1 is/1 always/1 easy/1 to/1 set/1 up/1 ,/1 everything/1 is/1 compatible/1 ,/1 its/1 literally/1 everything/1 i/1 could/1 ask/1 for/1 ./1 
+set up||positive||this/14 thing/13 is/12 awesome/11 ,/10 everything/9 always/8 works/7 ,/6 everything/5 is/4 always/3 easy/2 to/1 ,/1 everything/1 is/1 compatible/1 ,/1 its/1 literally/1 everything/1 i/1 could/1 ask/1 for/1 ./1 
+Keyboard||positive||responds/1 well/1 to/1 presses/1 ./1 
+Windows 8||negative||lastly/2 ,/1 is/1 annoying/1 ./1 
+setup||positive||everything/7 is/6 so/5 easy/4 and/3 intuitive/2 to/1 or/1 configure/1 ./1 
+configure||positive||everything/9 is/8 so/7 easy/6 and/5 intuitive/4 to/3 setup/2 or/1 ./1 
+Windows 8||negative||biggest/3 complaint/2 is/1 ./1 
+usb ports||negative||only/2 2/1 .../1 seems/1 kind/1 of/1 .../1 limited/1 ./1 
+features||positive||it/5 has/4 all/3 the/2 expected/1 and/1 more/1 +plus/1 a/1 wide/1 screen/1 and/1 more/1 than/1 roomy/1 keyboard/1 ./1 
+screen||positive||it/11 has/10 all/9 the/8 expected/7 features/6 and/5 more/4 +plus/3 a/2 wide/1 and/1 more/1 than/1 roomy/1 keyboard/1 ./1 
+keyboard||positive||it/16 has/15 all/14 the/13 expected/12 features/11 and/10 more/9 +plus/8 a/7 wide/6 screen/5 and/4 more/3 than/2 roomy/1 ./1 
+Performance||positive||amazing/1 for/1 anything/1 i/1 throw/1 at/1 it/1 ./1 
+quality||positive||the/8 receiver/7 was/6 full/5 of/4 superlatives/3 for/2 the/1 and/1 performance/1 ./1 
+performance||positive||the/10 receiver/9 was/8 full/7 of/6 superlatives/5 for/4 the/3 quality/2 and/1 ./1 
+OS||positive||i/6 was/5 extremely/4 happy/3 with/2 the/1 itself/1 ./1 
+portability||positive||the/5 new/4 mbp/3 offers/2 great/1 and/1 gives/1 us/1 confidence/1 that/1 we/1 are/1 not/1 going/1 to/1 need/1 to/1 purchase/1 a/1 new/1 laptop/1 in/1 18/1 months/1 ./1 
+portable computing||positive||the/18 criticism/17 has/16 waned/15 ,/14 and/13 now/12 i/11 'd/10 be/9 the/8 first/7 to/6 recommend/5 an/4 air/3 for/2 truly/1 ./1 
+Windows 8||negative||i/16 would/15 have/14 given/13 it/12 5/11 starts/10 was/9 it/8 not/7 for/6 the/5 fact/4 that/3 it/2 had/1 
+MS Office 2011 for Mac||positive||is/1 wonderful/1 ,/1 well/1 worth/1 it/1 ./1 
+performance||negative||but/2 the/1 of/1 mac/1 mini/1 is/1 a/1 huge/1 disappointment/1 ./1 
+look||positive||they/4 do/3 n't/2 just/1 good/1 ;/1 they/1 deliver/1 excellent/1 performance/1 ./1 
+performance||positive||they/10 do/9 n't/8 just/7 look/6 good/5 ;/4 they/3 deliver/2 excellent/1 ./1 
+lit up keys||positive||i/17 have/16 had/15 it/14 over/13 a/12 year/11 now/10 with/9 out/8 a/7 glitch/6 of/5 any/4 kind..i/3 love/2 the/1 and/1 screen/1 display/1 .../1 this/1 thing/1 is/1 fast/1 and/1 clear/1 as/1 can/1 be/1 ./1 
+screen display||positive||i/21 have/20 had/19 it/18 over/17 a/16 year/15 now/14 with/13 out/12 a/11 glitch/10 of/9 any/8 kind..i/7 love/6 the/5 lit/4 up/3 keys/2 and/1 .../1 this/1 thing/1 is/1 fast/1 and/1 clear/1 as/1 can/1 be/1 ./1 
+Mountain Lion OS||positive||the/1 is/1 not/1 hard/1 to/1 figure/1 out/1 if/1 you/1 are/1 familiar/1 with/1 microsoft/1 windows/1 ./1 
+Microsoft Windows||neutral||the/15 mountain/14 lion/13 os/12 is/11 not/10 hard/9 to/8 figure/7 out/6 if/5 you/4 are/3 familiar/2 with/1 ./1 
+OSX||negative||however/6 ,/5 i/4 can/3 refute/2 that/1 is/1 ``/1 fast/1 ''/1 ./1 
+Microsoft Office||positive||enjoy/2 using/1 !/1 
+graphics||positive||incredible/1 and/1 brilliant/1 colors/1 ./1 
+colors||positive||incredible/4 graphics/3 and/2 brilliant/1 ./1 
+Built-in apps||positive||are/1 purely/1 amazing/1 ./1 
+Screen resolution||negative||cons/2 :/1 ./1 
+operating system||positive||from/9 the/8 speed/7 to/6 the/5 multi/4 touch/3 gestures/2 this/1 beats/1 windows/1 easily/1 ./1 
+Windows||negative||from/12 the/11 speed/10 to/9 the/8 multi/7 touch/6 gestures/5 this/4 operating/3 system/2 beats/1 easily/1 ./1 
+speed||positive||from/2 the/1 to/1 the/1 multi/1 touch/1 gestures/1 this/1 operating/1 system/1 beats/1 windows/1 easily/1 ./1 
+multi touch gestures||positive||from/5 the/4 speed/3 to/2 the/1 this/1 operating/1 system/1 beats/1 windows/1 easily/1 ./1 
+size||positive||i/4 really/3 like/2 the/1 and/1 i/1 'm/1 a/1 fan/1 of/1 the/1 acers/1 ./1 
+SquareTrade 3-Year Computer Accidental Protection Warranty||positive||i/4 opted/3 for/2 the/1 (/1 $/1 1500-2000/1 )/1 which/1 also/1 support/1 ``/1 accidents/1 ''/1 like/1 drops/1 and/1 spills/1 that/1 are/1 not/1 covered/1 by/1 applecare/1 ./1 
+AppleCare||negative||i/29 opted/28 for/27 the/26 squaretrade/25 3-year/24 computer/23 accidental/22 protection/21 warranty/20 (/19 $/18 1500-2000/17 )/16 which/15 also/14 support/13 ``/12 accidents/11 ''/10 like/9 drops/8 and/7 spills/6 that/5 are/4 not/3 covered/2 by/1 ./1 
+transport||positive||it/6 's/5 light/4 and/3 easy/2 to/1 ./1 
+Windows 8 Set-Up||negative||once/11 you/10 get/9 past/8 learning/7 how/6 to/5 use/4 the/3 poorly/2 designed/1 you/1 may/1 feel/1 frustrated/1 ./1 
+size||neutral||it/15 's/14 been/13 time/12 for/11 a/10 new/9 laptop/8 ,/7 and/6 the/5 only/4 debate/3 was/2 which/1 of/1 the/1 mac/1 laptops/1 ,/1 and/1 whether/1 to/1 spring/1 for/1 the/1 retina/1 display/1 ./1 
+retina display||neutral||it/27 's/26 been/25 time/24 for/23 a/22 new/21 laptop/20 ,/19 and/18 the/17 only/16 debate/15 was/14 which/13 size/12 of/11 the/10 mac/9 laptops/8 ,/7 and/6 whether/5 to/4 spring/3 for/2 the/1 ./1 
+design||positive||the/10 reason/9 why/8 i/7 choose/6 apple/5 macbook/4 because/3 of/2 their/1 and/1 the/1 aluminum/1 casing/1 ./1 
+aluminum casing||positive||the/13 reason/12 why/11 i/10 choose/9 apple/8 macbook/7 because/6 of/5 their/4 design/3 and/2 the/1 ./1 
+aluminum body||positive||the/1 sure/1 makes/1 it/1 stand/1 out/1 ./1 
+integrate bluetooth devices||positive||it/5 is/4 very/3 easy/2 to/1 ,/1 and/1 usb/1 devices/1 are/1 recognized/1 almost/1 instantly/1 ./1 
+USB devices||positive||it/10 is/9 very/8 easy/7 to/6 integrate/5 bluetooth/4 devices/3 ,/2 and/1 are/1 recognized/1 almost/1 instantly/1 ./1 
+Intel4000 graphic chip||negative||and/13 the/12 fact/11 that/10 apple/9 is/8 driving/7 the/6 13/5 ''/4 rmbp/3 with/2 the/1 seems/1 underpowered/1 (/1 to/1 me/1 ./1 
+DVD drive Firewire port||neutral||apple/3 removed/2 the/1 (/1 will/1 work/1 with/1 adapter/1 )/1 and/1 put/1 the/1 sdxc/1 slot/1 in/1 a/1 silly/1 position/1 on/1 the/1 back/1 ./1 
+adapter||neutral||apple/11 removed/10 the/9 dvd/8 drive/7 firewire/6 port/5 (/4 will/3 work/2 with/1 )/1 and/1 put/1 the/1 sdxc/1 slot/1 in/1 a/1 silly/1 position/1 on/1 the/1 back/1 ./1 
+SDXC slot||negative||apple/16 removed/15 the/14 dvd/13 drive/12 firewire/11 port/10 (/9 will/8 work/7 with/6 adapter/5 )/4 and/3 put/2 the/1 in/1 a/1 silly/1 position/1 on/1 the/1 back/1 ./1 
+durability||positive||the/1 of/1 the/1 laptop/1 will/1 make/1 it/1 worth/1 the/1 money/1 ./1 
+designed||positive||well/1 and/1 fast/1 ./1 
+use||positive||but/14 i/13 was/12 completely/11 wrong/10 ,/9 this/8 computer/7 is/6 unbelievable/5 amazing/4 and/3 easy/2 to/1 ./1 
+value||positive||exactly/6 as/5 posted/4 plus/3 a/2 great/1 ./1 
+specs||positive||the/1 are/1 pretty/1 good/1 too/1 ./1 
+product quality||positive||apple/4 is/3 unmatched/2 in/1 ,/1 aesthetics/1 ,/1 craftmanship/1 ,/1 and/1 customer/1 service/1 ./1 
+aesthetics||positive||apple/7 is/6 unmatched/5 in/4 product/3 quality/2 ,/1 ,/1 craftmanship/1 ,/1 and/1 customer/1 service/1 ./1 
+craftmanship||positive||apple/9 is/8 unmatched/7 in/6 product/5 quality/4 ,/3 aesthetics/2 ,/1 ,/1 and/1 customer/1 service/1 ./1 
+customer service||positive||apple/12 is/11 unmatched/10 in/9 product/8 quality/7 ,/6 aesthetics/5 ,/4 craftmanship/3 ,/2 and/1 ./1 
+size||positive||it/4 is/3 a/2 great/1 and/1 amazing/1 windows/1 8/1 included/1 !/1 
+windows 8||positive||it/7 is/6 a/5 great/4 size/3 and/2 amazing/1 included/1 !/1 
+Windows 8||negative||i/6 do/5 not/4 like/3 too/2 much/1 ./1 
+Startup times||negative||are/1 incredibly/1 long/1 :/1 over/1 two/1 minutes/1 ./1 
+colors||positive||also/2 stunning/1 and/1 speedy/1 
+price||positive||great/1 free/1 shipping/1 what/1 else/1 can/1 i/1 ask/1 for/1 !/1 !/1 
+shipping||positive||great/3 price/2 free/1 what/1 else/1 can/1 i/1 ask/1 for/1 !/1 !/1 
+mouse||positive||this/1 is/1 terrific/1 ./1 
+battery||neutral||it/6 is/5 really/4 thick/3 around/2 the/1 ./1 
+windows 7||positive||and/1 works/1 like/1 a/1 charm/1 ./1 
+price||positive||:/6 )/5 great/4 product/3 ,/2 great/1 ,/1 great/1 delivery/1 ,/1 and/1 great/1 service/1 ./1 
+delivery||positive||:/9 )/8 great/7 product/6 ,/5 great/4 price/3 ,/2 great/1 ,/1 and/1 great/1 service/1 ./1 
+service||positive||:/13 )/12 great/11 product/10 ,/9 great/8 price/7 ,/6 great/5 delivery/4 ,/3 and/2 great/1 ./1 
+customer service||positive||:/7 ]/6 it/5 arrived/4 so/3 fast/2 and/1 was/1 great/1 ./1 
+windows 8||negative||tried/1 and/1 hated/1 it/1 !/1 !/1 !/1 
+Set up||positive||was/1 a/1 breeze/1 ./1 
+Win8||negative||but/5 i/4 do/3 not/2 like/1 ./1 
+features||neutral||i/10 am/9 still/8 in/7 the/6 process/5 of/4 learning/3 about/2 its/1 ./1 
+price||negative||i/11 had/10 the/9 same/8 reasons/7 as/6 most/5 pc/4 users/3 :/2 the/1 ,/1 the/1 overbearing/1 restrictions/1 of/1 osx/1 and/1 lack/1 of/1 support/1 for/1 games/1 ./1 
+OSX||negative||i/17 had/16 the/15 same/14 reasons/13 as/12 most/11 pc/10 users/9 :/8 the/7 price/6 ,/5 the/4 overbearing/3 restrictions/2 of/1 and/1 lack/1 of/1 support/1 for/1 games/1 ./1 
+support for games||negative||i/21 had/20 the/19 same/18 reasons/17 as/16 most/15 pc/14 users/13 :/12 the/11 price/10 ,/9 the/8 overbearing/7 restrictions/6 of/5 osx/4 and/3 lack/2 of/1 ./1 
+mobility||positive||i/6 wanted/5 it/4 for/3 it/2 's/1 and/1 man/1 ,/1 this/1 little/1 bad/1 boy/1 is/1 very/1 nice/1 ./1 
+set up||positive||i/10 found/9 the/8 mini/7 to/6 be/5 :/4 exceptionally/3 easy/2 to/1 
+USB3||positive||having/1 is/1 why/1 i/1 bought/1 this/1 mini/1 ./1 
+sound||positive||the/1 is/1 nice/1 and/1 loud/1 ;/1 i/1 do/1 n't/1 have/1 any/1 problems/1 with/1 hearing/1 anything/1 ./1 
+track pad||positive||it/6 is/5 very/4 slim/3 ,/2 the/1 is/1 very/1 much/1 impressed/1 with/1 me/1 ./1 
+settings||negative||the/1 are/1 not/1 user-friendly/1 either/1 ./1 
+OpenOffice||positive||thank/3 goodness/2 for/1 !/1 
+form factor||positive||awesome/1 ,/1 great/1 battery/1 life/1 ,/1 wonderful/1 ux/1 ./1 
+battery life||positive||awesome/5 form/4 factor/3 ,/2 great/1 ,/1 wonderful/1 ux/1 ./1 
+UX||positive||awesome/9 form/8 factor/7 ,/6 great/5 battery/4 life/3 ,/2 wonderful/1 ./1 
+keyboard||positive||i/3 love/2 the/1 and/1 the/1 screen/1 ./1 
+screen||positive||i/6 love/5 the/4 keyboard/3 and/2 the/1 ./1 
+touchpad||negative||however/8 ,/7 there/6 are/5 major/4 issues/3 with/2 the/1 which/1 render/1 the/1 device/1 nearly/1 useless/1 ./1 
+Mavericks||positive||i/5 've/4 already/3 upgraded/2 o/1 and/1 i/1 am/1 impressed/1 with/1 everything/1 about/1 this/1 computer/1 ./1 
+i5||negative||not/10 as/9 fast/8 as/7 i/6 would/5 have/4 expect/3 for/2 an/1 ./1 
+service||positive||thanks/3 for/2 great/1 and/1 shipping/1 !/1 
+shipping||positive||thanks/5 for/4 great/3 service/2 and/1 !/1 
+performance||positive||the/1 seems/1 quite/1 good/1 ,/1 and/1 built-in/1 applications/1 like/1 iphoto/1 work/1 great/1 with/1 my/1 phone/1 and/1 camera/1 ./1 
+built-in applications||positive||the/7 performance/6 seems/5 quite/4 good/3 ,/2 and/1 like/1 iphoto/1 work/1 great/1 with/1 my/1 phone/1 and/1 camera/1 ./1 
+iPhoto||positive||the/10 performance/9 seems/8 quite/7 good/6 ,/5 and/4 built-in/3 applications/2 like/1 work/1 great/1 with/1 my/1 phone/1 and/1 camera/1 ./1 
+hard drive||neutral||i/5 did/4 swap/3 out/2 the/1 for/1 a/1 samsung/1 830/1 ssd/1 which/1 i/1 highly/1 recommend/1 ./1 
+Samsung 830 SSD||positive||i/9 did/8 swap/7 out/6 the/5 hard/4 drive/3 for/2 a/1 which/1 i/1 highly/1 recommend/1 ./1 
+Starts up||positive||in/1 a/1 hurry/1 and/1 everything/1 is/1 ready/1 to/1 go/1 ./1 
+aluminum||negative||yes/13 ,/12 that/11 's/10 a/9 good/8 thing/7 ,/6 but/5 it/4 's/3 made/2 from/1 that/1 scratches/1 easily/1 ./1 
+built in virus control||positive||quick/3 and/2 has/1 ./1 
+retina display||neutral||took/10 a/9 long/8 time/7 trying/6 to/5 decide/4 between/3 one/2 with/1 and/1 one/1 without/1 ./1 
+components||negative||i/6 was/5 also/4 informed/3 that/2 the/1 of/1 the/1 mac/1 book/1 were/1 dirty/1 ./1 
+hardware||negative||the/1 problems/1 have/1 been/1 so/1 bad/1 ,/1 i/1 ca/1 n't/1 wait/1 till/1 it/1 completely/1 dies/1 in/1 3/1 years/1 ,/1 tops/1 !/1 
+battery||positive||it/6 's/5 so/4 nice/3 that/2 the/1 last/1 so/1 long/1 and/1 that/1 this/1 machine/1 has/1 the/1 snow/1 lion/1 !/1 
+snow lion||positive||it/16 's/15 so/14 nice/13 that/12 the/11 battery/10 last/9 so/8 long/7 and/6 that/5 this/4 machine/3 has/2 the/1 !/1 
+shipping||negative||however/5 i/4 chose/3 two/2 day/1 and/1 it/1 took/1 over/1 a/1 week/1 to/1 arrive/1 ./1 
+features||positive||it/13 's/12 exactly/11 what/10 i/9 wanted/8 ,/7 and/6 it/5 has/4 all/3 the/2 new/1 and/1 whatnot/1 ./1 
+quality||positive||can/8 you/7 buy/6 any/5 laptop/4 that/3 matches/2 the/1 of/1 a/1 macbook/1 ?/1 
+keyboard||negative||it/5 feels/4 cheap/3 ,/2 the/1 is/1 not/1 very/1 sensitive/1 ./1 
+sound quality||negative||though/10 please/9 note/8 that/7 sometimes/6 it/5 crashes/4 ,/3 and/2 the/1 isnt/1 superb/1 ./1 
+navigate||positive||it/5 is/4 very/3 easy/2 to/1 even/1 for/1 a/1 novice/1 ./1 
+battery life||positive||does/10 everything/9 i/8 need/7 it/6 to/5 ,/4 has/3 a/2 wonderful/1 and/1 i/1 could/1 n't/1 be/1 happier/1 ./1 
+Performance||positive||great/1 and/1 quality/1 ./1 
+Quality||positive||great/3 performance/2 and/1 ./1 
+windows XP||neutral||i/2 used/1 ,/1 windows/1 vista/1 ,/1 and/1 windows/1 7/1 extensively/1 ./1 
+windows Vista||neutral||i/5 used/4 windows/3 xp/2 ,/1 ,/1 and/1 windows/1 7/1 extensively/1 ./1 
+Windows 7||neutral||i/9 used/8 windows/7 xp/6 ,/5 windows/4 vista/3 ,/2 and/1 extensively/1 ./1 
+SSD drive||neutral||i/4 did/3 add/2 a/1 and/1 memory/1 
+memory||neutral||i/7 did/6 add/5 a/4 ssd/3 drive/2 and/1 
+start up||negative||on/1 it/1 asks/1 endless/1 questions/1 just/1 so/1 itune/1 can/1 sell/1 you/1 more/1 of/1 their/1 products/1 ./1 
+itune||negative||on/9 start/8 up/7 it/6 asks/5 endless/4 questions/3 just/2 so/1 can/1 sell/1 you/1 more/1 of/1 their/1 products/1 ./1 
+OS||neutral||i/20 have/19 been/18 a/17 pc/16 user/15 for/14 a/13 very/12 long/11 time/10 now/9 but/8 i/7 will/6 get/5 used/4 to/3 this/2 new/1 ./1 
+restore disks||negative||one/10 more/9 thing/8 ,/7 this/6 mac/5 does/4 not/3 come/2 with/1 and/1 i/1 am/1 not/1 sure/1 if/1 you/1 can/1 make/1 them/1 direct/1 from/1 the/1 mac/1 like/1 you/1 can/1 with/1 newer/1 pc/1 's/1 ,/1 also/1 the/1 charging/1 cables/1 are/1 made/1 of/1 the/1 same/1 cheap/1 material/1 as/1 the/1 iphone/1 touch/1 cables/1 ./1 
+charging cables||negative||one/36 more/35 thing/34 ,/33 this/32 mac/31 does/30 not/29 come/28 with/27 restore/26 disks/25 and/24 i/23 am/22 not/21 sure/20 if/19 you/18 can/17 make/16 them/15 direct/14 from/13 the/12 mac/11 like/10 you/9 can/8 with/7 newer/6 pc/5 's/4 ,/3 also/2 the/1 are/1 made/1 of/1 the/1 same/1 cheap/1 material/1 as/1 the/1 iphone/1 touch/1 cables/1 ./1 
+material||negative||one/44 more/43 thing/42 ,/41 this/40 mac/39 does/38 not/37 come/36 with/35 restore/34 disks/33 and/32 i/31 am/30 not/29 sure/28 if/27 you/26 can/25 make/24 them/23 direct/22 from/21 the/20 mac/19 like/18 you/17 can/16 with/15 newer/14 pc/13 's/12 ,/11 also/10 the/9 charging/8 cables/7 are/6 made/5 of/4 the/3 same/2 cheap/1 as/1 the/1 iphone/1 touch/1 cables/1 ./1 
+graphic design||neutral||i/10 bought/9 it/8 to/7 my/6 son/5 who/4 uses/3 it/2 for/1 ./1 
+external mics||neutral||i/4 never/3 tried/2 any/1 with/1 that/1 imac/1 ./1 
+os||positive||the/2 new/1 is/1 great/1 on/1 my/1 macbook/1 pro/1 !/1 
+works||positive||i/6 have/5 experienced/4 no/3 problems/2 ,/1 as/1 anticipated/1 ./1 
+System||positive||is/1 running/1 great/1 ./1 
+customize setting||positive||easy/2 to/1 and/1 even/1 create/1 your/1 own/1 bookmarks/1 ./1 
+create your own bookmarks||positive||easy/6 to/5 customize/4 setting/3 and/2 even/1 ./1 
+wireless keyboard / mouse||neutral||the/4 mac/3 mini/2 ,/1 and/1 a/1 hdmi/1 cable/1 is/1 all/1 i/1 need/1 to/1 get/1 some/1 real/1 work/1 done/1 ./1 
+HDMI cable||neutral||the/10 mac/9 mini/8 ,/7 wireless/6 keyboard/5 /4 mouse/3 and/2 a/1 is/1 all/1 i/1 need/1 to/1 get/1 some/1 real/1 work/1 done/1 ./1 
+features||positive||it/4 has/3 all/2 the/1 that/1 we/1 expected/1 and/1 the/1 price/1 was/1 good/1 ,/1 working/1 well/1 so/1 far/1 ./1 
+price||positive||it/10 has/9 all/8 the/7 features/6 that/5 we/4 expected/3 and/2 the/1 was/1 good/1 ,/1 working/1 well/1 so/1 far/1 ./1 
+working||positive||it/14 has/13 all/12 the/11 features/10 that/9 we/8 expected/7 and/6 the/5 price/4 was/3 good/2 ,/1 well/1 so/1 far/1 ./1 
+gaming||neutral||i/18 work/17 as/16 a/15 designer/14 and/13 coder/12 and/11 i/10 needed/9 a/8 new/7 buddy/6 to/5 work/4 with/3 ,/2 not/1 ./1 
+operating system||positive||the/2 new/1 makes/1 this/1 computer/1 into/1 a/1 super/1 ipad/1 ./1 
+set up||positive||easy/2 to/1 and/1 go/1 !/1 
+hard drive||positive||i/7 ca/6 n't/5 believe/4 how/3 quiet/2 the/1 is/1 and/1 how/1 quick/1 this/1 thing/1 boots/1 up/1 ./1 
+boots up||positive||i/15 ca/14 n't/13 believe/12 how/11 quiet/10 the/9 hard/8 drive/7 is/6 and/5 how/4 quick/3 this/2 thing/1 ./1 
+scanning||negative||the/7 only/6 issue/5 came/4 when/3 i/2 tried/1 to/1 the/1 mac/1 ./1 
+price point||neutral||i/15 think/14 this/13 is/12 about/11 as/10 good/9 as/8 it/7 gets/6 at/5 anything/4 close/3 to/2 this/1 ./1 
+works||positive||it/10 's/9 just/8 what/7 we/6 were/5 looking/4 for/3 and/2 it/1 great/1 ./1 
+working||positive||it/9 's/8 so/7 quick/6 and/5 responsive/4 that/3 it/2 makes/1 /1 on/1 a/1 computer/1 so/1 much/1 more/1 pleasurable/1 !/1 
+surfing||positive||it/10 's/9 so/8 quick/7 and/6 responsive/5 that/4 it/3 makes/2 working/1 on/1 a/1 computer/1 so/1 much/1 more/1 pleasurable/1 !/1 
+works||positive||it/1 fine/1 ,/1 and/1 all/1 the/1 software/1 seems/1 to/1 run/1 pretty/1 well/1 ./1 
+software||positive||it/7 works/6 fine/5 ,/4 and/3 all/2 the/1 seems/1 to/1 run/1 pretty/1 well/1 ./1 
+word processing||neutral||i/6 'm/5 using/4 this/3 computer/2 for/1 ,/1 web/1 browsing/1 ,/1 some/1 gaming/1 ,/1 and/1 i/1 'm/1 learning/1 programming/1 ./1 
+web browsing||neutral||i/9 'm/8 using/7 this/6 computer/5 for/4 word/3 processing/2 ,/1 ,/1 some/1 gaming/1 ,/1 and/1 i/1 'm/1 learning/1 programming/1 ./1 
+gaming||neutral||i/13 'm/12 using/11 this/10 computer/9 for/8 word/7 processing/6 ,/5 web/4 browsing/3 ,/2 some/1 ,/1 and/1 i/1 'm/1 learning/1 programming/1 ./1 
+programming||neutral||i/19 'm/18 using/17 this/16 computer/15 for/14 word/13 processing/12 ,/11 web/10 browsing/9 ,/8 some/7 gaming/6 ,/5 and/4 i/3 'm/2 learning/1 ./1 
+function||negative||my/19 wife/18 was/17 so/16 excited/15 to/14 open/13 the/12 box/11 ,/10 but/9 quickly/8 came/7 to/6 see/5 that/4 it/3 did/2 not/1 as/1 it/1 should/1 ./1 
+performance||neutral||i/15 wanted/14 a/13 computer/12 that/11 was/10 quite/9 ,/8 fast/7 ,/6 and/5 that/4 had/3 overall/2 great/1 ./1 
+Apple `` Help ''||negative||is/1 a/1 mixed/1 bag/1 ./1 
+work||negative||it/4 suddenly/3 can/2 not/1 ./1 
+Harddrive||negative||was/1 in/1 poor/1 condition/1 ,/1 had/1 to/1 replace/1 it/1 ./1 
+on/off switch||negative||the/1 is/1 a/1 bit/1 obscure/1 in/1 the/1 rear/1 corner/1 ./1 
+instructions||negative||my/8 only/7 complaint/6 is/5 the/4 total/3 lack/2 of/1 that/1 come/1 with/1 the/1 mac/1 mini/1 ./1 
+gaming||negative||the/14 only/13 task/12 that/11 this/10 computer/9 would/8 not/7 be/6 good/5 enough/4 for/3 would/2 be/1 ,/1 otherwise/1 the/1 integrated/1 intel/1 4000/1 graphics/1 work/1 well/1 for/1 other/1 tasks/1 ./1 
+content creation||positive||i/5 use/4 it/3 mostly/2 for/1 (/1 audio/1 ,/1 video/1 ,/1 photo/1 editing/1 )/1 and/1 its/1 reliable/1 ./1 
+Audio||positive||i/8 use/7 it/6 mostly/5 for/4 content/3 creation/2 (/1 ,/1 video/1 ,/1 photo/1 editing/1 )/1 and/1 its/1 reliable/1 ./1 
+video||positive||i/10 use/9 it/8 mostly/7 for/6 content/5 creation/4 (/3 audio/2 ,/1 ,/1 photo/1 editing/1 )/1 and/1 its/1 reliable/1 ./1 
+photo editing||positive||i/12 use/11 it/10 mostly/9 for/8 content/7 creation/6 (/5 audio/4 ,/3 video/2 ,/1 )/1 and/1 its/1 reliable/1 ./1 
+Screen||positive||is/1 bright/1 and/1 gorgeous/1 ./1 
+brightness||neutral||the/7 only/6 solution/5 is/4 to/3 turn/2 the/1 down/1 ,/1 etc/1 ./1 
+applications||neutral||if/23 you/22 want/21 more/20 information/19 on/18 macs/17 i/16 suggest/15 going/14 to/13 apple.com/12 and/11 heading/10 towards/9 the/8 macbook/7 page/6 for/5 more/4 information/3 on/2 the/1 ./1 
+use||positive||it/7 is/6 robust/5 ,/4 with/3 a/2 friendly/1 as/1 all/1 apple/1 products/1 ./1 
+use||positive||it/6 is/5 fast/4 and/3 easy/2 to/1 ./1 
+i5 processor||positive||and/8 the/7 fact/6 that/5 it/4 comes/3 with/2 an/1 definitely/1 speeds/1 things/1 up/1 
+built in features||positive||i/13 have/12 been/11 pc/10 for/9 years/8 but/7 this/6 computer/5 is/4 intuitive/3 and/2 its/1 are/1 a/1 great/1 help/1 
+screen||positive||nice/1 ,/1 keyboard/1 works/1 great/1 !/1 
+keyboard||positive||nice/3 screen/2 ,/1 works/1 great/1 !/1 
+delivery||positive||i/7 was/6 amazed/5 at/4 how/3 fast/2 the/1 was/1 ./1 
+SSD||neutral||i/6 've/5 installed/4 to/3 it/2 additional/1 and/1 16gb/1 ram/1 ./1 
+16Gb RAM||neutral||i/8 've/7 installed/6 to/5 it/4 additional/3 ssd/2 and/1 ./1 
+memory||negative||the/1 was/1 gone/1 and/1 it/1 was/1 not/1 able/1 to/1 be/1 used/1 ./1 
+works||positive||it/1 great/1 and/1 i/1 am/1 so/1 happy/1 i/1 bought/1 it/1 ./1 
+design||positive||i/3 like/2 the/1 and/1 ease/1 of/1 use/1 with/1 the/1 keyboard/1 ,/1 plenty/1 of/1 ports/1 ./1 
+keyboard||positive||i/10 like/9 the/8 design/7 and/6 ease/5 of/4 use/3 with/2 the/1 ,/1 plenty/1 of/1 ports/1 ./1 
+ports||positive||i/14 like/13 the/12 design/11 and/10 ease/9 of/8 use/7 with/6 the/5 keyboard/4 ,/3 plenty/2 of/1 ./1 
+service||positive||it/8 definitely/7 beats/6 my/5 old/4 mac/3 and/2 the/1 was/1 great/1 ./1 
+Web browsing||positive||is/1 very/1 quick/1 with/1 safari/1 browser/1 ./1 
+Safari browser||positive||web/6 browsing/5 is/4 very/3 quick/2 with/1 ./1 
+lighted screen||positive||i/3 like/2 the/1 at/1 night/1 ./1 
+use||positive||it/5 is/4 really/3 easy/2 to/1 and/1 it/1 is/1 quick/1 to/1 start/1 up/1 ./1 
+start up||positive||it/11 is/10 really/9 easy/8 to/7 use/6 and/5 it/4 is/3 quick/2 to/1 ./1 
+operation||negative||i/8 've/7 lived/6 with/5 the/4 crashes/3 and/2 slow/1 and/1 restarts/1 ./1 
+USB3 Peripherals||positive||are/1 noticably/1 less/1 expensive/1 than/1 the/1 thunderbolt/1 ones/1 ./1 
+ThunderBolt||negative||usb3/8 peripherals/7 are/6 noticably/5 less/4 expensive/3 than/2 the/1 ones/1 ./1 
+warranty||positive||and/10 mine/9 had/8 broke/7 but/6 i/5 sent/4 it/3 in/2 under/1 -no/1 problems/1 ./1 
+media editing||positive||it/10 's/9 fast/8 ,/7 light/6 ,/5 and/4 is/3 perfect/2 for/1 ,/1 which/1 is/1 mostly/1 why/1 i/1 bought/1 it/1 in/1 the/1 first/1 place/1 ./1 
+battery||positive||the/1 lasts/1 as/1 advertised/1 (/1 give/1 or/1 take/1 15-20/1 minutes/1 )/1 ,/1 and/1 the/1 entire/1 user/1 experience/1 is/1 very/1 elegant/1 ./1 
+user experience||positive||the/16 battery/15 lasts/14 as/13 advertised/12 (/11 give/10 or/9 take/8 15-20/7 minutes/6 )/5 ,/4 and/3 the/2 entire/1 is/1 very/1 elegant/1 ./1 
+shipment||positive||thanks/4 for/3 the/2 fast/1 and/1 great/1 price/1 ./1 
+price||positive||thanks/7 for/6 the/5 fast/4 shipment/3 and/2 great/1 ./1 
+performance||positive||!/2 excelent/1 ,/1 usability/1 ,/1 presentation/1 and/1 time/1 response/1 ./1 
+usability||positive||!/4 excelent/3 performance/2 ,/1 ,/1 presentation/1 and/1 time/1 response/1 ./1 
+presentation||positive||!/6 excelent/5 performance/4 ,/3 usability/2 ,/1 and/1 time/1 response/1 ./1 
+time response||positive||!/8 excelent/7 performance/6 ,/5 usability/4 ,/3 presentation/2 and/1 ./1 
+size||positive||the/2 smaller/1 was/1 a/1 bonus/1 because/1 of/1 space/1 restrictions/1 ./1 
+Mac OS||negative||i/3 blame/2 the/1 ./1 
+Legacy programs||neutral||in/6 fact/5 i/4 still/3 use/2 many/1 (/1 appleworks/1 ,/1 filemaker/1 pro/1 ,/1 quicken/1 ,/1 photoshop/1 etc/1 )/1 !/1 
+Appleworks||neutral||in/8 fact/7 i/6 still/5 use/4 manylegacy/3 programs/2 (/1 ,/1 filemaker/1 pro/1 ,/1 quicken/1 ,/1 photoshop/1 etc/1 )/1 !/1 
+FileMaker Pro||neutral||in/10 fact/9 i/8 still/7 use/6 manylegacy/5 programs/4 (/3 appleworks/2 ,/1 ,/1 quicken/1 ,/1 photoshop/1 etc/1 )/1 !/1 
+Quicken||neutral||in/13 fact/12 i/11 still/10 use/9 manylegacy/8 programs/7 (/6 appleworks/5 ,/4 filemaker/3 pro/2 ,/1 ,/1 photoshop/1 etc/1 )/1 !/1 
+Photoshop||neutral||in/15 fact/14 i/13 still/12 use/11 manylegacy/10 programs/9 (/8 appleworks/7 ,/6 filemaker/5 pro/4 ,/3 quicken/2 ,/1 etc/1 )/1 !/1 
+operating system||positive||i/3 like/2 the/1 ./1 
+form factor||positive||i/3 love/2 the/1 ./1 
+loading the internet||positive||it/4 's/3 fast/2 at/1 ./1 
+looking||positive||so/5 much/4 faster/3 and/2 sleeker/1 ./1 
+XP||neutral||unfortunately/4 ,/3 it/2 runs/1 and/1 microsoft/1 is/1 dropping/1 support/1 next/1 april/1 ./1 
+support||negative||unfortunately/9 ,/8 it/7 runs/6 xp/5 and/4 microsoft/3 is/2 dropping/1 next/1 april/1 ./1 
+OS||positive||first/14 off/13 ,/12 i/11 really/10 do/9 like/8 my/7 mbp/6 .../5 once/4 used/3 to/2 the/1 it/1 is/1 pretty/1 easy/1 to/1 get/1 around/1 ,/1 and/1 the/1 overall/1 build/1 is/1 great/1 .../1 eg/1 the/1 keyboard/1 is/1 one/1 of/1 the/1 best/1 to/1 type/1 on/1 ./1 
+overall build||positive||first/25 off/24 ,/23 i/22 really/21 do/20 like/19 my/18 mbp/17 .../16 once/15 used/14 to/13 the/12 os/11 it/10 is/9 pretty/8 easy/7 to/6 get/5 around/4 ,/3 and/2 the/1 is/1 great/1 .../1 eg/1 the/1 keyboard/1 is/1 one/1 of/1 the/1 best/1 to/1 type/1 on/1 ./1 
+keyboard||positive||first/32 off/31 ,/30 i/29 really/28 do/27 like/26 my/25 mbp/24 .../23 once/22 used/21 to/20 the/19 os/18 it/17 is/16 pretty/15 easy/14 to/13 get/12 around/11 ,/10 and/9 the/8 overall/7 build/6 is/5 great/4 .../3 eg/2 the/1 is/1 one/1 of/1 the/1 best/1 to/1 type/1 on/1 ./1 
+construction||positive||it/6 is/5 made/4 of/3 such/2 solid/1 and/1 since/1 i/1 have/1 never/1 had/1 a/1 mac/1 using/1 my/1 iphone/1 helped/1 me/1 get/1 used/1 to/1 the/1 system/1 a/1 bit/1 ./1 
+system||neutral||it/24 is/23 made/22 of/21 such/20 solid/19 construction/18 and/17 since/16 i/15 have/14 never/13 had/12 a/11 mac/10 using/9 my/8 iphone/7 helped/6 me/5 get/4 used/3 to/2 the/1 a/1 bit/1 ./1 
+unibody construction||positive||very/2 nice/1 ./1 
+runs||positive||this/9 macbook/8 pro/7 is/6 fast/5 ,/4 powerful/3 ,/2 and/1 super/1 quiet/1 and/1 cool/1 ./1 
+disk drive||neutral||it/8 's/7 ok/6 but/5 does/4 n't/3 have/2 a/1 which/1 i/1 did/1 n't/1 know/1 until/1 after/1 i/1 bought/1 it/1 ./1 
+HDMI receptacle||neutral||there/3 is/2 no/1 ,/1 nor/1 is/1 there/1 an/1 sd/1 card/1 slot/1 located/1 anywhere/1 on/1 the/1 device/1 ./1 
+SD card slot||neutral||there/10 is/9 no/8 hdmi/7 receptacle/6 ,/5 nor/4 is/3 there/2 an/1 located/1 anywhere/1 on/1 the/1 device/1 ./1 
+works||positive||it/6 came/5 in/4 brand/3 new/2 and/1 perfectly/1 ./1 
+design app||neutral||it/12 should/11 n't/10 happen/9 like/8 that/7 ,/6 i/5 do/4 n't/3 have/2 any/1 open/1 or/1 anything/1 ./1 
+TRACKPAD||negative||my/1 is/1 not/1 working/1 ./1 
+finish||positive||it/9 looks/8 and/7 feels/6 solid/5 ,/4 with/3 a/2 flawless/1 ./1 
+looks||positive||it/1 and/1 feels/1 solid/1 ,/1 with/1 a/1 flawless/1 finish/1 ./1 
+feels||positive||it/3 looks/2 and/1 solid/1 ,/1 with/1 a/1 flawless/1 finish/1 ./1 
+Price||negative||was/1 higher/1 when/1 purchased/1 on/1 mac/1 when/1 compared/1 to/1 price/1 showing/1 on/1 pc/1 when/1 i/1 bought/1 this/1 product/1 ./1 
+price||positive||price/10 was/9 higher/8 when/7 purchased/6 on/5 mac/4 when/3 compared/2 to/1 showing/1 on/1 pc/1 when/1 i/1 bought/1 this/1 product/1 ./1 
+system||negative||then/2 the/1 would/1 many/1 times/1 not/1 power/1 down/1 without/1 a/1 forced/1 power-off/1 ./1 
+power down||negative||then/7 the/6 system/5 would/4 many/3 times/2 not/1 without/1 a/1 forced/1 power-off/1 ./1 
+configuration||positive||the/1 is/1 perfect/1 for/1 my/1 needs/1 ./1 
+speakers||negative||and/2 the/1 is/1 the/1 worst/1 ever/1 ./1 
+looks||positive||its/7 the/6 best/5 ,/4 its/3 got/2 the/1 ,/1 super/1 easy/1 to/1 use/1 and/1 love/1 all/1 you/1 can/1 do/1 with/1 the/1 trackpad/1 !/1 ../1 
+use||positive||its/12 the/11 best/10 ,/9 its/8 got/7 the/6 looks/5 ,/4 super/3 easy/2 to/1 and/1 love/1 all/1 you/1 can/1 do/1 with/1 the/1 trackpad/1 !/1 ../1 
+trackpad||positive||its/21 the/20 best/19 ,/18 its/17 got/16 the/15 looks/14 ,/13 super/12 easy/11 to/10 use/9 and/8 love/7 all/6 you/5 can/4 do/3 with/2 the/1 !/1 ../1 
+Web surfuring||positive||is/1 smooth/1 and/1 seamless/1 ./1 
+interface||positive||i/6 'm/5 overall/4 pleased/3 with/2 the/1 and/1 the/1 portability/1 of/1 this/1 product/1 ./1 
+portability||positive||i/9 'm/8 overall/7 pleased/6 with/5 the/4 interface/3 and/2 the/1 of/1 this/1 product/1 ./1 
+works||positive||this/8 item/7 is/6 a/5 beautiful/4 piece/3 ,/2 it/1 well/1 ,/1 it/1 is/1 easy/1 to/1 carry/1 and/1 handle/1 ./1 
+carry||positive||this/15 item/14 is/13 a/12 beautiful/11 piece/10 ,/9 it/8 works/7 well/6 ,/5 it/4 is/3 easy/2 to/1 and/1 handle/1 ./1 
+handle||positive||this/17 item/16 is/15 a/14 beautiful/13 piece/12 ,/11 it/10 works/9 well/8 ,/7 it/6 is/5 easy/4 to/3 carry/2 and/1 ./1 
+performance||negative||it/13 was/12 also/11 suffering/10 from/9 hardware/8 (/7 keyboard/6 )/5 issues/4 ,/3 relatively/2 slow/1 and/1 shortening/1 battery/1 lifetime/1 ./1 
+battery lifetime||negative||it/16 was/15 also/14 suffering/13 from/12 hardware/11 (/10 keyboard/9 )/8 issues/7 ,/6 relatively/5 slow/4 performance/3 and/2 shortening/1 ./1 
+hardware ( keyboard )||negative||it/5 was/4 also/3 suffering/2 from/1 issues/1 ,/1 relatively/1 slow/1 performance/1 and/1 shortening/1 battery/1 lifetime/1 ./1 
+Runs||positive||good/1 and/1 does/1 the/1 job/1 ,/1 ca/1 n't/1 complain/1 about/1 that/1 !/1 
+footprint||positive||it/8 's/7 silent/6 and/5 has/4 a/3 very/2 small/1 on/1 my/1 desk/1 ./1 
+exterior||positive||the/1 is/1 absolutely/1 gorgeous/1 ./1 
+performance||positive||it/5 has/4 a/3 very/2 high/1 ,/1 just/1 for/1 what/1 i/1 needed/1 for/1 ./1 
+intel 4000 graphics chipset||neutral||apple/18 is/17 aware/16 of/15 this/14 issue/13 and/12 this/11 is/10 either/9 old/8 stock/7 or/6 a/5 defective/4 design/3 involving/2 the/1 ./1 
+design||neutral||apple/15 is/14 aware/13 of/12 this/11 issue/10 and/9 this/8 is/7 either/6 old/5 stock/4 or/3 a/2 defective/1 involving/1 the/1 intel/1 4000/1 graphics/1 chipset/1 ./1 
+OSX Mountain Lion||neutral||soon/1 to/1 upgrade/1 to/1 mavericks/1 ./1 
+Mavericks||neutral||osx/7 mountain/6 lion/5 soon/4 to/3 upgrade/2 to/1 ./1 
+USB ports||negative||i/27 just/26 bought/25 the/24 new/23 macbook/22 pro/21 ,/20 the/19 13/18 ''/17 model/16 ,/15 and/14 i/13 ca/12 n't/11 believe/10 apple/9 keeps/8 making/7 the/6 same/5 mistake/4 with/3 regard/2 to/1 ./1 
+lid||neutral||it/11 wakes/10 in/9 less/8 than/7 a/6 second/5 when/4 i/3 open/2 the/1 ./1 
+wakes||positive||it/1 in/1 less/1 than/1 a/1 second/1 when/1 i/1 open/1 the/1 lid/1 ./1 
+size||positive||it/4 is/3 the/2 perfect/1 and/1 speed/1 for/1 me/1 ./1 
+speed||positive||it/6 is/5 the/4 perfect/3 size/2 and/1 for/1 me/1 ./1 
+CUSTOMER SERVICE||positive||the/1 is/1 terrific/1 !/1 !/1 
+performed||positive||my/12 last/11 laptop/10 was/9 a/8 17/7 ''/6 asus/5 gaming/4 machine/3 ,/2 which/1 admirably/1 ,/1 but/1 having/1 since/1 built/1 my/1 own/1 desktop/1 and/1 really/1 settling/1 into/1 the/1 college/1 life/1 ,/1 i/1 found/1 myself/1 wanting/1 something/1 smaller/1 and/1 less/1 cumbersome/1 ,/1 not/1 to/1 mention/1 that/1 the/1 asus/1 had/1 been/1 slowly/1 developing/1 problems/1 ever/1 since/1 i/1 bought/1 it/1 about/1 4/1 years/1 ago/1 ./1 
+battery cycle count||positive||however/10 ,/9 it/8 did/7 not/6 have/5 any/4 scratches/3 ,/2 zero/1 (/1 pretty/1 surprised/1 )/1 ,/1 and/1 all/1 the/1 hardware/1 seemed/1 to/1 be/1 working/1 perfectly/1 ./1 
+hardware||positive||however/21 ,/20 it/19 did/18 not/17 have/16 any/15 scratches/14 ,/13 zero/12 battery/11 cycle/10 count/9 (/8 pretty/7 surprised/6 )/5 ,/4 and/3 all/2 the/1 seemed/1 to/1 be/1 working/1 perfectly/1 ./1 
+OS||negative||after/5 fumbling/4 around/3 with/2 the/1 i/1 started/1 searching/1 the/1 internet/1 for/1 a/1 fix/1 and/1 found/1 a/1 number/1 of/1 forums/1 on/1 fixing/1 the/1 issue/1 ./1 
+finger swipes||negative||and/6 as/5 for/4 all/3 the/2 fancy/1 --/1 i/1 just/1 gave/1 up/1 and/1 attached/1 a/1 mouse/1 ./1 
+mouse||neutral||and/16 as/15 for/14 all/13 the/12 fancy/11 finger/10 swipes/9 --/8 i/7 just/6 gave/5 up/4 and/3 attached/2 a/1 ./1 
+storage||neutral||i/6 needed/5 a/4 laptop/3 with/2 big/1 ,/1 a/1 nice/1 screen/1 and/1 fast/1 so/1 i/1 can/1 photoshop/1 without/1 any/1 problem/1 ./1 
+screen||neutral||i/10 needed/9 a/8 laptop/7 with/6 big/5 storage/4 ,/3 a/2 nice/1 and/1 fast/1 so/1 i/1 can/1 photoshop/1 without/1 any/1 problem/1 ./1 
+photoshop||neutral||i/16 needed/15 a/14 laptop/13 with/12 big/11 storage/10 ,/9 a/8 nice/7 screen/6 and/5 fast/4 so/3 i/2 can/1 without/1 any/1 problem/1 ./1 
+Mac OS||positive||i/5 like/4 coming/3 back/2 to/1 but/1 this/1 laptop/1 is/1 lacking/1 in/1 speaker/1 quality/1 compared/1 to/1 my/1 $/1 400/1 old/1 hp/1 laptop/1 ./1 
+speaker quality||negative||i/13 like/12 coming/11 back/10 to/9 mac/8 os/7 but/6 this/5 laptop/4 is/3 lacking/2 in/1 compared/1 to/1 my/1 $/1 400/1 old/1 hp/1 laptop/1 ./1 
+Shipped||positive||very/1 quickly/1 and/1 safely/1 ./1 
+thunderbolt port||positive||the/1 is/1 awesome/1 !/1 
+performance||positive||the/1 is/1 definitely/1 superior/1 to/1 any/1 computer/1 i/1 've/1 ever/1 put/1 my/1 hands/1 on/1 ./1 
+streaming video||positive||it/4 's/3 great/2 for/1 and/1 other/1 entertainment/1 uses/1 ./1 
+entertainment uses||positive||it/8 's/7 great/6 for/5 streaming/4 video/3 and/2 other/1 ./1 
+design||positive||i/3 like/2 the/1 and/1 its/1 features/1 but/1 there/1 are/1 somethings/1 i/1 think/1 needs/1 to/1 be/1 improved/1 ./1 
+features||positive||i/6 like/5 the/4 design/3 and/2 its/1 but/1 there/1 are/1 somethings/1 i/1 think/1 needs/1 to/1 be/1 improved/1 ./1 
+Mac office||negative||there/5 were/4 small/3 problems/2 with/1 ./1 
+Apple Tech Support||neutral||i/5 understand/4 i/3 should/2 call/1 about/1 any/1 variables/1 (/1 which/1 is/1 my/1 purpose/1 of/1 writing/1 this/1 con/1 )/1 as/1 variables/1 could/1 be/1 a/1 bigger/1 future/1 problem/1 ./1 
+spec||negative||i/10 ordered/9 my/8 2012/7 mac/6 mini/5 after/4 being/3 disappointed/2 with/1 of/1 the/1 new/1 27/1 ''/1 imacs/1 ./1 
+works||positive||it/2 still/1 and/1 it/1 's/1 extremely/1 user/1 friendly/1 ,/1 so/1 i/1 would/1 recommend/1 it/1 for/1 new/1 computer/1 user/1 and/1 also/1 for/1 those/1 who/1 are/1 just/1 looking/1 for/1 a/1 more/1 efficient/1 way/1 to/1 do/1 things/1 
+use||positive||its/5 fast/4 ,/3 easy/2 to/1 and/1 it/1 looks/1 great/1 ./1 
+looks||positive||its/8 fast/7 ,/6 easy/5 to/4 use/3 and/2 it/1 great/1 ./1 
+Office||neutral||(/2 but/1 can/1 be/1 purchased/1 )/1 if/1 i/1 ever/1 need/1 a/1 laptop/1 again/1 i/1 am/1 for/1 sure/1 purchasing/1 another/1 toshiba/1 !/1 !/1 
+retina display||neutral||i/7 have/6 n't/5 tried/4 the/3 one/2 with/1 .../1 maybe/1 in/1 the/1 future/1 ./1 
+Performance||positive||is/1 much/1 much/1 better/1 on/1 the/1 pro/1 ,/1 especially/1 if/1 you/1 install/1 an/1 ssd/1 on/1 it/1 ./1 
+SSD||positive||performance/14 is/13 much/12 much/11 better/10 on/9 the/8 pro/7 ,/6 especially/5 if/4 you/3 install/2 an/1 on/1 it/1 ./1 
+MagSafe accessories||neutral||note/7 ,/6 however/5 ,/4 that/3 any/2 existing/1 you/1 have/1 will/1 not/1 work/1 with/1 the/1 magsafe/1 2/1 connection/1 ./1 
+MagSafe 2 connection||negative||note/16 ,/15 however/14 ,/13 that/12 any/11 existing/10 magsafe/9 accessories/8 you/7 have/6 will/5 not/4 work/3 with/2 the/1 ./1 
+touchpad||negative||the/7 only/6 thing/5 i/4 dislike/3 is/2 the/1 ,/1 alot/1 of/1 the/1 times/1 its/1 unresponsive/1 and/1 does/1 things/1 i/1 dont/1 want/1 it/1 too/1 ,/1 i/1 would/1 recommend/1 using/1 a/1 mouse/1 with/1 it/1 ./1 
+mouse||neutral||the/29 only/28 thing/27 i/26 dislike/25 is/24 the/23 touchpad/22 ,/21 alot/20 of/19 the/18 times/17 its/16 unresponsive/15 and/14 does/13 things/12 i/11 dont/10 want/9 it/8 too/7 ,/6 i/5 would/4 recommend/3 using/2 a/1 with/1 it/1 ./1 
+runs||positive||the/17 mac/16 mini/15 is/14 about/13 8x/12 smaller/11 than/10 my/9 old/8 computer/7 which/6 is/5 a/4 huge/3 bonus/2 and/1 very/1 quiet/1 ,/1 actually/1 the/1 fans/1 are/1 n't/1 audible/1 unlike/1 my/1 old/1 pc/1 
+fans||positive||the/23 mac/22 mini/21 is/20 about/19 8x/18 smaller/17 than/16 my/15 old/14 computer/13 which/12 is/11 a/10 huge/9 bonus/8 and/7 runs/6 very/5 quiet/4 ,/3 actually/2 the/1 are/1 n't/1 audible/1 unlike/1 my/1 old/1 pc/1 
+Mac OS||negative||maybe/2 the/1 improvement/1 were/1 not/1 the/1 product/1 they/1 want/1 to/1 offer/1 ./1 
+Mac ecosystem||neutral||i/21 thought/20 the/19 transition/18 would/17 be/16 difficult/15 at/14 best/13 and/12 would/11 take/10 some/9 time/8 to/7 fully/6 familiarize/5 myself/4 with/3 the/2 new/1 ./1 
+price||positive||it/7 's/6 absolutely/5 wonderful/4 and/3 worth/2 the/1 !/1 
+use||positive||i/8 am/7 please/6 with/5 the/4 products/3 ease/2 of/1 ;/1 out/1 of/1 the/1 box/1 ready/1 ;/1 appearance/1 and/1 functionality/1 ./1 
+appearance||positive||i/16 am/15 please/14 with/13 the/12 products/11 ease/10 of/9 use/8 ;/7 out/6 of/5 the/4 box/3 ready/2 ;/1 and/1 functionality/1 ./1 
+functionality||positive||i/18 am/17 please/16 with/15 the/14 products/13 ease/12 of/11 use/10 ;/9 out/8 of/7 the/6 box/5 ready/4 ;/3 appearance/2 and/1 ./1 
+graphic design||positive||perfect/4 for/3 all/2 my/1 classes/1 i/1 'm/1 taking/1 this/1 year/1 in/1 college/1 :/1 -/1 )/1 
+slot||negative||i/6 will/5 not/4 be/3 using/2 that/1 again/1 ./1 
+OS||positive||the/1 is/1 fast/1 and/1 fluid/1 ,/1 everything/1 is/1 organized/1 and/1 it/1 's/1 just/1 beautiful/1 ./1 
+use||positive||they/4 are/3 simpler/2 to/1 ./1 
+SSD||positive||!/12 so/11 nice/10 ../9 stable/8 ../7 fast/6 ../5 now/4 i/3 got/2 my/1 !/1 
+built-in camera||neutral||also/5 ,/4 in/3 using/2 the/1 ,/1 my/1 voice/1 recording/1 for/1 my/1 vlog/1 sounds/1 like/1 the/1 interplanetary/1 transmissions/1 in/1 the/1 ``/1 star/1 wars/1 ''/1 saga/1 ./1 
+voice recording||negative||also/9 ,/8 in/7 using/6 the/5 built-in/4 camera/3 ,/2 my/1 for/1 my/1 vlog/1 sounds/1 like/1 the/1 interplanetary/1 transmissions/1 in/1 the/1 ``/1 star/1 wars/1 ''/1 saga/1 ./1 
+start up||positive||i/4 love/3 the/2 quick/1 ./1 
+functionality||positive||you/6 just/5 can/4 not/3 beat/2 the/1 of/1 an/1 apple/1 device/1 ./1 
+function||positive||yet/5 my/4 mac/3 continues/2 to/1 properly/1 ./1 
+Graphics||positive||are/1 much/1 improved/1 ./1 
+Build Quality||positive||here/12 are/11 the/10 things/9 that/8 made/7 me/6 confident/5 with/4 my/3 purchase/2 :/1 -/1 seriously/1 ,/1 you/1 ca/1 n't/1 beat/1 a/1 unibody/1 construction/1 ./1 
+unibody construction||positive||here/22 are/21 the/20 things/19 that/18 made/17 me/16 confident/15 with/14 my/13 purchase/12 :/11 build/10 quality/9 -/8 seriously/7 ,/6 you/5 ca/4 n't/3 beat/2 a/1 ./1 
+flexibility for connectivity||positive||it/4 provides/3 much/2 more/1 ./1 
+portability||positive||i/3 want/2 the/1 of/1 a/1 tablet/1 ,/1 without/1 the/1 limitations/1 of/1 a/1 tablet/1 and/1 that/1 's/1 where/1 this/1 laptop/1 comes/1 into/1 play/1 ./1 
+Mac tutorials||positive||do/1 help/1 ./1 
+technical support||negative||the/1 was/1 not/1 helpful/1 as/1 well/1 ./1 
+adapter||neutral||i/4 got/3 the/2 new/1 and/1 there/1 was/1 no/1 change/1 ./1 
+technical support||neutral||so/3 i/2 called/1 ./1 
+iPhoto||neutral||came/2 with/1 and/1 garage/1 band/1 already/1 loaded/1 ./1 
+garage band||neutral||came/4 with/3 iphoto/2 and/1 already/1 loaded/1 ./1 
+Logic board||positive||utterly/1 fried/1 ,/1 cried/1 ,/1 and/1 laid/1 down/1 and/1 died/1 ./1 
+sound||negative||the/1 was/1 crappy/1 even/1 when/1 you/1 turn/1 up/1 the/1 volume/1 still/1 the/1 same/1 results/1 ./1 
+volume||negative||the/10 sound/9 was/8 crappy/7 even/6 when/5 you/4 turn/3 up/2 the/1 still/1 the/1 same/1 results/1 ./1 
+OSX Lion||positive||is/1 a/1 great/1 performer..extremely/1 fast/1 and/1 reliable/1 ./1 
+application||negative||having/20 heard/19 from/18 friends/17 and/16 family/15 about/14 how/13 reliable/12 a/11 mac/10 product/9 is/8 ,/7 i/6 never/5 expected/4 to/3 have/2 an/1 crash/1 within/1 the/1 first/1 month/1 ,/1 but/1 i/1 did/1 ./1 
+physical form||positive||the/4 macbook/3 pro/2 's/1 is/1 wonderful/1 ./1 
+body||positive||the/3 mini/2 's/1 has/1 n't/1 changed/1 since/1 late/1 2010-/1 and/1 for/1 a/1 good/1 reason/1 ./1 
+unibody construction||positive||the/1 really/1 does/1 feel/1 lot/1 more/1 solid/1 than/1 apple/1 's/1 previous/1 laptops/1 ./1 
+3D rendering||negative||slows/1 it/1 down/1 considerably/1 ./1 
+OS X Mountain Lion||neutral||got/5 this/4 mac/3 mini/2 with/1 for/1 my/1 wife/1 ./1 
+screen||positive||fast/3 ,/2 great/1 ,/1 beautiful/1 apps/1 for/1 a/1 laptop/1 ;/1 priced/1 at/1 1100/1 on/1 the/1 apple/1 website/1 ;/1 amazon/1 had/1 it/1 for/1 1098+/1 tax/1 -/1 plus/1 i/1 had/1 a/1 10/1 %/1 off/1 coupon/1 from/1 amazon-cost/1 me/1 998/1 plus/1 tax-/1 1070-/1 otd/1 !/1 
+apps||positive||fast/6 ,/5 great/4 screen/3 ,/2 beautiful/1 for/1 a/1 laptop/1 ;/1 priced/1 at/1 1100/1 on/1 the/1 apple/1 website/1 ;/1 amazon/1 had/1 it/1 for/1 1098+/1 tax/1 -/1 plus/1 i/1 had/1 a/1 10/1 %/1 off/1 coupon/1 from/1 amazon-cost/1 me/1 998/1 plus/1 tax-/1 1070-/1 otd/1 !/1 
+priced||neutral||fast/11 ,/10 great/9 screen/8 ,/7 beautiful/6 apps/5 for/4 a/3 laptop/2 ;/1 at/1 1100/1 on/1 the/1 apple/1 website/1 ;/1 amazon/1 had/1 it/1 for/1 1098+/1 tax/1 -/1 plus/1 i/1 had/1 a/1 10/1 %/1 off/1 coupon/1 from/1 amazon-cost/1 me/1 998/1 plus/1 tax-/1 1070-/1 otd/1 !/1 
+cost||neutral||fast/36 ,/35 great/34 screen/33 ,/32 beautiful/31 apps/30 for/29 a/28 laptop/27 ;/26 priced/25 at/24 1100/23 on/22 the/21 apple/20 website/19 ;/18 amazon/17 had/16 it/15 for/14 1098+/13 tax/12 -/11 plus/10 i/9 had/8 a/7 10/6 %/5 off/4 coupon/3 from/2 amazon-/1 me/1 998/1 plus/1 tax-/1 1070-/1 otd/1 !/1 
+boot||neutral||12.44/3 seconds/2 to/1 ./1 
+ports||neutral||all/2 the/1 are/1 much/1 needed/1 since/1 this/1 is/1 my/1 main/1 computer/1 ./1 
+Quad-Core 2.5 GHz CPU||neutral||the/21 like/20 new/19 condition/18 of/17 the/16 imac/15 mc309ll/14 on/13 amazon/12 is/11 at/10 $/9 900+/8 level/7 only/6 ,/5 and/4 it/3 is/2 a/1 (/1 similar/1 to/1 the/1 $/1 799/1 mini/1 )/1 ,/1 with/1 radeon/1 hd/1 6750m/1 512mb/1 graphic/1 card/1 (/1 this/1 mini/1 is/1 integrated/1 intel/1 4000/1 card/1 )/1 ,/1 and/1 it/1 even/1 comes/1 with/1 wireless/1 apple/1 keyboard/1 and/1 mouse/1 ,/1 all/1 put/1 together/1 in/1 neat/1 and/1 nice/1 package/1 ./1 
+Radeon HD 6750M 512MB graphic card||neutral||the/35 like/34 new/33 condition/32 of/31 the/30 imac/29 mc309ll/28 on/27 amazon/26 is/25 at/24 $/23 900+/22 level/21 only/20 ,/19 and/18 it/17 is/16 a/15 quad-core/14 2.5/13 ghz/12 cpu/11 (/10 similar/9 to/8 the/7 $/6 799/5 mini/4 )/3 ,/2 with/1 (/1 this/1 mini/1 is/1 integrated/1 intel/1 4000/1 card/1 )/1 ,/1 and/1 it/1 even/1 comes/1 with/1 wireless/1 apple/1 keyboard/1 and/1 mouse/1 ,/1 all/1 put/1 together/1 in/1 neat/1 and/1 nice/1 package/1 ./1 
+integrated Intel 4000 card||neutral||the/45 like/44 new/43 condition/42 of/41 the/40 imac/39 mc309ll/38 on/37 amazon/36 is/35 at/34 $/33 900+/32 level/31 only/30 ,/29 and/28 it/27 is/26 a/25 quad-core/24 2.5/23 ghz/22 cpu/21 (/20 similar/19 to/18 the/17 $/16 799/15 mini/14 )/13 ,/12 with/11 radeon/10 hd/9 6750m/8 512mb/7 graphic/6 card/5 (/4 this/3 mini/2 is/1 )/1 ,/1 and/1 it/1 even/1 comes/1 with/1 wireless/1 apple/1 keyboard/1 and/1 mouse/1 ,/1 all/1 put/1 together/1 in/1 neat/1 and/1 nice/1 package/1 ./1 
+wireless Apple Keyboard and Mouse||neutral||the/56 like/55 new/54 condition/53 of/52 the/51 imac/50 mc309ll/49 on/48 amazon/47 is/46 at/45 $/44 900+/43 level/42 only/41 ,/40 and/39 it/38 is/37 a/36 quad-core/35 2.5/34 ghz/33 cpu/32 (/31 similar/30 to/29 the/28 $/27 799/26 mini/25 )/24 ,/23 with/22 radeon/21 hd/20 6750m/19 512mb/18 graphic/17 card/16 (/15 this/14 mini/13 is/12 integrated/11 intel/10 4000/9 card/8 )/7 ,/6 and/5 it/4 even/3 comes/2 with/1 ,/1 all/1 put/1 together/1 in/1 neat/1 and/1 nice/1 package/1 ./1 
+package||positive||the/69 like/68 new/67 condition/66 of/65 the/64 imac/63 mc309ll/62 on/61 amazon/60 is/59 at/58 $/57 900+/56 level/55 only/54 ,/53 and/52 it/51 is/50 a/49 quad-core/48 2.5/47 ghz/46 cpu/45 (/44 similar/43 to/42 the/41 $/40 799/39 mini/38 )/37 ,/36 with/35 radeon/34 hd/33 6750m/32 512mb/31 graphic/30 card/29 (/28 this/27 mini/26 is/25 integrated/24 intel/23 4000/22 card/21 )/20 ,/19 and/18 it/17 even/16 comes/15 with/14 wireless/13 apple/12 keyboard/11 and/10 mouse/9 ,/8 all/7 put/6 together/5 in/4 neat/3 and/2 nice/1 ./1 
+cover||neutral||put/2 a/1 on/1 it/1 and/1 is/1 a/1 little/1 better/1 but/1 that/1 is/1 my/1 only/1 complaint/1 ./1 
+gestures||positive||within/8 a/7 few/6 hours/5 i/4 was/3 using/2 the/1 unconsciously/1 ./1 
+extender cable||neutral||this/6 mac/5 does/4 come/3 with/2 an/1 and/1 i/1 'm/1 using/1 mine/1 right/1 now/1 hoping/1 the/1 cable/1 will/1 stay/1 nice/1 for/1 the/1 many/1 years/1 i/1 plan/1 on/1 using/1 this/1 mac/1 ./1 
+cable||positive||this/17 mac/16 does/15 come/14 with/13 an/12 extender/11 cable/10 and/9 i/8 'm/7 using/6 mine/5 right/4 now/3 hoping/2 the/1 will/1 stay/1 nice/1 for/1 the/1 many/1 years/1 i/1 plan/1 on/1 using/1 this/1 mac/1 ./1 
+2.9ghz dual-core i7 chip||positive||the/1 really/1 out/1 does/1 itself/1 ./1 
+starts up||positive||it/5 is/4 pretty/3 snappy/2 and/1 in/1 about/1 30/1 seconds/1 which/1 is/1 good/1 enough/1 for/1 me/1 ./1 
+Windows 8||neutral||not/3 sure/2 on/1 ./1 
+internal CD drive||negative||my/8 one/7 complaint/6 is/5 that/4 there/3 was/2 no/1 ./1 
+hard drive||neutral||this/5 newer/4 netbook/3 has/2 no/1 or/1 network/1 lights/1 ./1 
+network lights||neutral||this/8 newer/7 netbook/6 has/5 no/4 hard/3 drive/2 or/1 ./1 
+priced||neutral||i/24 was/23 having/22 a/21 though/20 time/19 deciding/18 between/17 the/16 13/15 ''/14 macbook/13 air/12 or/11 the/10 macbook/9 pro/8 13/7 ''/6 (/5 both/4 baseline/3 models/2 ,/1 at/1 1,200/1 $/1 retail/1 )/1 
+storage||positive||not/6 too/5 expense/4 and/3 has/2 enough/1 for/1 most/1 users/1 and/1 many/1 ports/1 ./1 
+ports||positive||not/12 too/11 expense/10 and/9 has/8 enough/7 storage/6 for/5 most/4 users/3 and/2 many/1 ./1 
+audio volume||negative||the/1 is/1 quite/1 low/1 and/1 virtually/1 unusable/1 in/1 a/1 room/1 with/1 any/1 background/1 activity/1 ./1 
+size||positive||it/6 is/5 lightweight/4 and/3 the/2 perfect/1 to/1 carry/1 to/1 class/1 ./1 
+Windows 8||neutral||i/6 was/5 given/4 a/3 demonstration/2 of/1 ./1 
+capabilities||positive||the/7 mbp/6 is/5 beautiful/4 has/3 many/2 wonderful/1 ./1 
+settings||neutral||i/12 thought/11 that/10 it/9 will/8 be/7 fine/6 ,/5 if/4 i/3 do/2 some/1 ./1 
+Runs||positive||very/1 smoothly/1 ./1 
+Boot-up||negative||slowed/1 significantly/1 after/1 all/1 windows/1 updates/1 were/1 installed/1 ./1 
+Windows updates||negative||boot-up/5 slowed/4 significantly/3 after/2 all/1 were/1 installed/1 ./1 
+logic board||negative||more/7 likely/6 it/5 will/4 require/3 replacing/2 the/1 once/1 they/1 admit/1 they/1 have/1 a/1 problem/1 and/1 come/1 up/1 with/1 a/1 solution/1 ./1 
+internet||positive||it/18 was/17 important/16 that/15 it/14 was/13 powerful/12 enough/11 to/10 do/9 all/8 of/7 the/6 tasks/5 he/4 needed/3 on/2 the/1 ,/1 word/1 processing/1 ,/1 graphic/1 design/1 and/1 gaming/1 ./1 
+word processing||positive||it/20 was/19 important/18 that/17 it/16 was/15 powerful/14 enough/13 to/12 do/11 all/10 of/9 the/8 tasks/7 he/6 needed/5 on/4 the/3 internet/2 ,/1 ,/1 graphic/1 design/1 and/1 gaming/1 ./1 
+graphic design||positive||it/23 was/22 important/21 that/20 it/19 was/18 powerful/17 enough/16 to/15 do/14 all/13 of/12 the/11 tasks/10 he/9 needed/8 on/7 the/6 internet/5 ,/4 word/3 processing/2 ,/1 and/1 gaming/1 ./1 
+gaming||positive||it/26 was/25 important/24 that/23 it/22 was/21 powerful/20 enough/19 to/18 do/17 all/16 of/15 the/14 tasks/13 he/12 needed/11 on/10 the/9 internet/8 ,/7 word/6 processing/5 ,/4 graphic/3 design/2 and/1 ./1 
+setup||positive||i/9 like/8 the/7 mini/6 mac/5 it/4 was/3 easy/2 to/1 and/1 install/1 ,/1 but/1 i/1 am/1 learning/1 as/1 i/1 go/1 and/1 could/1 use/1 a/1 tutorial/1 to/1 learn/1 how/1 to/1 use/1 some/1 of/1 the/1 features/1 i/1 was/1 use/1 to/1 on/1 the/1 pc/1 especially/1 the/1 right/1 mouse/1 click/1 menu/1 ./1 
+install||positive||i/11 like/10 the/9 mini/8 mac/7 it/6 was/5 easy/4 to/3 setup/2 and/1 ,/1 but/1 i/1 am/1 learning/1 as/1 i/1 go/1 and/1 could/1 use/1 a/1 tutorial/1 to/1 learn/1 how/1 to/1 use/1 some/1 of/1 the/1 features/1 i/1 was/1 use/1 to/1 on/1 the/1 pc/1 especially/1 the/1 right/1 mouse/1 click/1 menu/1 ./1 
+tutorial||neutral||i/24 like/23 the/22 mini/21 mac/20 it/19 was/18 easy/17 to/16 setup/15 and/14 install/13 ,/12 but/11 i/10 am/9 learning/8 as/7 i/6 go/5 and/4 could/3 use/2 a/1 to/1 learn/1 how/1 to/1 use/1 some/1 of/1 the/1 features/1 i/1 was/1 use/1 to/1 on/1 the/1 pc/1 especially/1 the/1 right/1 mouse/1 click/1 menu/1 ./1 
+features||neutral||i/33 like/32 the/31 mini/30 mac/29 it/28 was/27 easy/26 to/25 setup/24 and/23 install/22 ,/21 but/20 i/19 am/18 learning/17 as/16 i/15 go/14 and/13 could/12 use/11 a/10 tutorial/9 to/8 learn/7 how/6 to/5 use/4 some/3 of/2 the/1 i/1 was/1 use/1 to/1 on/1 the/1 pc/1 especially/1 the/1 right/1 mouse/1 click/1 menu/1 ./1 
+right mouse click menu||neutral||i/43 like/42 the/41 mini/40 mac/39 it/38 was/37 easy/36 to/35 setup/34 and/33 install/32 ,/31 but/30 i/29 am/28 learning/27 as/26 i/25 go/24 and/23 could/22 use/21 a/20 tutorial/19 to/18 learn/17 how/16 to/15 use/14 some/13 of/12 the/11 features/10 i/9 was/8 use/7 to/6 on/5 the/4 pc/3 especially/2 the/1 ./1 
+Runs||positive||real/1 quick/1 ./1 
+RAM memory||positive||buy/3 the/2 separate/1 and/1 you/1 will/1 have/1 a/1 rocket/1 !/1 
+profile||negative||since/5 the/4 machine/3 's/2 slim/1 is/1 critical/1 to/1 me/1 ,/1 that/1 was/1 a/1 problem/1 ./1 
+disk drive||positive||wifi/3 capability/2 ,/1 and/1 multiple/1 usb/1 ports/1 to/1 connect/1 scale/1 and/1 printers/1 was/1 all/1 that/1 was/1 required/1 ./1 
+USB ports||positive||wifi/7 capability/6 ,/5 disk/4 drive/3 and/2 multiple/1 to/1 connect/1 scale/1 and/1 printers/1 was/1 all/1 that/1 was/1 required/1 ./1 
+WiFi capability||positive||,/1 disk/1 drive/1 and/1 multiple/1 usb/1 ports/1 to/1 connect/1 scale/1 and/1 printers/1 was/1 all/1 that/1 was/1 required/1 ./1 
+SD card reader||negative||the/1 is/1 slightly/1 recessed/1 and/1 upside/1 down/1 (/1 the/1 nail/1 slot/1 on/1 the/1 card/1 can/1 not/1 be/1 accessed/1 )/1 ,/1 if/1 this/1 was/1 a/1 self/1 ejecting/1 slot/1 this/1 would/1 not/1 be/1 an/1 issue/1 ,/1 but/1 its/1 not/1 ./1 
+nail slot on the card||negative||the/12 sd/11 card/10 reader/9 is/8 slightly/7 recessed/6 and/5 upside/4 down/3 (/2 the/1 can/1 not/1 be/1 accessed/1 )/1 ,/1 if/1 this/1 was/1 a/1 self/1 ejecting/1 slot/1 this/1 would/1 not/1 be/1 an/1 issue/1 ,/1 but/1 its/1 not/1 ./1 
+slot||negative||the/29 sd/28 card/27 reader/26 is/25 slightly/24 recessed/23 and/22 upside/21 down/20 (/19 the/18 nail/17 slot/16 on/15 the/14 card/13 can/12 not/11 be/10 accessed/9 )/8 ,/7 if/6 this/5 was/4 a/3 self/2 ejecting/1 this/1 would/1 not/1 be/1 an/1 issue/1 ,/1 but/1 its/1 not/1 ./1 
+touch||positive||soft/1 ,/1 anodized/1 aluminum/1 with/1 laser/1 cut/1 precision/1 and/1 no/1 flaws/1 ./1 
+anodized aluminum||positive||soft/3 touch/2 ,/1 with/1 laser/1 cut/1 precision/1 and/1 no/1 flaws/1 ./1 
+aluminium||positive||simple/4 details/3 ,/2 crafted/1 and/1 real/1 glass/1 make/1 this/1 laptop/1 blow/1 away/1 the/1 other/1 plastic/1 ridden/1 ,/1 bulky/1 sticker/1 filled/1 laptops/1 ./1 
+glass||positive||simple/7 details/6 ,/5 crafted/4 aluminium/3 and/2 real/1 make/1 this/1 laptop/1 blow/1 away/1 the/1 other/1 plastic/1 ridden/1 ,/1 bulky/1 sticker/1 filled/1 laptops/1 ./1 
+aluminum||positive||first/14 of/13 all/12 yes/11 this/10 is/9 a/8 mac/7 and/6 it/5 has/4 that/3 nice/2 brushed/1 ./1 
+16GB of RAM||neutral||after/16 all/15 was/14 said/13 and/12 done/11 ,/10 i/9 essentially/8 used/7 that/6 $/5 450/4 savings/3 to/2 buy/1 ,/1 two/1 seagate/1 momentus/1 xt/1 hybrid/1 drives/1 and/1 an/1 owc/1 upgrade/1 kit/1 to/1 install/1 the/1 second/1 hard/1 drive/1 ./1 
+Seagate Momentus XT hybrid drives||neutral||after/21 all/20 was/19 said/18 and/17 done/16 ,/15 i/14 essentially/13 used/12 that/11 $/10 450/9 savings/8 to/7 buy/6 16gb/5 of/4 ram/3 ,/2 two/1 and/1 an/1 owc/1 upgrade/1 kit/1 to/1 install/1 the/1 second/1 hard/1 drive/1 ./1 
+OWC upgrade kit||neutral||after/28 all/27 was/26 said/25 and/24 done/23 ,/22 i/21 essentially/20 used/19 that/18 $/17 450/16 savings/15 to/14 buy/13 16gb/12 of/11 ram/10 ,/9 two/8 seagate/7 momentus/6 xt/5 hybrid/4 drives/3 and/2 an/1 to/1 install/1 the/1 second/1 hard/1 drive/1 ./1 
+hard drive||neutral||after/35 all/34 was/33 said/32 and/31 done/30 ,/29 i/28 essentially/27 used/26 that/25 $/24 450/23 savings/22 to/21 buy/20 16gb/19 of/18 ram/17 ,/16 two/15 seagate/14 momentus/13 xt/12 hybrid/11 drives/10 and/9 an/8 owc/7 upgrade/6 kit/5 to/4 install/3 the/2 second/1 ./1 
+number pad on the keyboard||positive||the/8 dell/7 inspiron/6 is/5 fast/4 and/3 has/2 a/1 ,/1 which/1 i/1 miss/1 on/1 my/1 apple/1 laptops/1 ./1 
+regular hard drive||positive||i/8 was/7 concerned/6 that/5 the/4 downgrade/3 to/2 the/1 would/1 make/1 it/1 unacceptably/1 slow/1 but/1 i/1 need/1 not/1 have/1 worried/1 -/1 this/1 machine/1 is/1 the/1 fastest/1 i/1 have/1 ever/1 owned/1 .../1 
+CD slot||neutral||this/5 one/4 still/3 has/2 the/1 ./1 
+HDMI port||neutral||no/1 ./1 
+install Mountain Lion||negative||i/3 had/2 to/1 and/1 it/1 took/1 a/1 good/1 two/1 hours/1 ./1 
+Customization||negative||on/1 mac/1 is/1 impossible/1 ./1 
+HD||neutral||i/4 am/3 replacing/2 the/1 with/1 a/1 micron/1 ssd/1 soon/1 ./1 
+Micron SSD||neutral||i/7 am/6 replacing/5 the/4 hd/3 with/2 a/1 soon/1 ./1 
+two finger clicking||positive||plus/1 as/1 a/1 replacement/1 for/1 the/1 right/1 click/1 button/1 is/1 surprisingly/1 intuitive/1 ./1 
+right click button||neutral||plus/9 two/8 finger/7 clicking/6 as/5 a/4 replacement/3 for/2 the/1 is/1 surprisingly/1 intuitive/1 ./1 
+SuperDrive||positive||the/1 is/1 quiet/1 ./1 
+power plug||negative||the/1 has/1 to/1 be/1 connected/1 to/1 the/1 power/1 adaptor/1 to/1 charge/1 the/1 battery/1 but/1 wo/1 n't/1 stay/1 connected/1 ./1 
+power adaptor||neutral||the/9 power/8 plug/7 has/6 to/5 be/4 connected/3 to/2 the/1 to/1 charge/1 the/1 battery/1 but/1 wo/1 n't/1 stay/1 connected/1 ./1 
+battery||neutral||the/14 power/13 plug/12 has/11 to/10 be/9 connected/8 to/7 the/6 power/5 adaptor/4 to/3 charge/2 the/1 but/1 wo/1 n't/1 stay/1 connected/1 ./1 
+battery||negative||the/1 was/1 completely/1 dead/1 ,/1 in/1 fact/1 it/1 had/1 grown/1 about/1 a/1 quarter/1 inch/1 thick/1 lump/1 on/1 the/1 underside/1 ./1 
+practicality||positive||if/3 yo/2 like/1 this/1 is/1 the/1 laptop/1 for/1 you/1 ./1 
+OS||positive||the/1 is/1 great/1 ./1 
+monitors||neutral||i/3 tried/2 several/1 and/1 several/1 hdmi/1 cables/1 and/1 this/1 was/1 the/1 case/1 each/1 time/1 ./1 
+HDMI cables||neutral||i/6 tried/5 several/4 monitors/3 and/2 several/1 and/1 this/1 was/1 the/1 case/1 each/1 time/1 ./1 
+Price||negative||cons/2 :/1 is/1 a/1 bit/1 ridiculous/1 ,/1 kinda/1 heavy/1 ./1 
+AC adaptor||neutral||the/6 troubleshooting/5 said/4 it/3 was/2 the/1 so/1 we/1 ordered/1 a/1 new/1 one/1 ./1 
+Fan||neutral||only/1 comes/1 on/1 when/1 you/1 are/1 playing/1 a/1 game/1 ./1 
+playing a game||neutral||fan/7 only/6 comes/5 on/4 when/3 you/2 are/1 ./1 
+USB 2 ports||neutral||which/8 it/7 did/6 not/5 have/4 ,/3 only/2 3/1 ./1 
+startup disk||neutral||no/1 was/1 not/1 included/1 but/1 that/1 may/1 be/1 my/1 fault/1 ./1 
+`` tools '' menu||neutral||there/3 is/2 no/1 ./1 
+word program||negative||it/13 is/12 very/11 fast/10 and/9 has/8 everything/7 that/6 i/5 need/4 except/3 for/2 a/1 ./1 
+CD/DVD drive||neutral||needs/2 a/1 and/1 a/1 bigger/1 power/1 switch/1 ./1 
+power switch||negative||needs/7 a/6 cd/5 drive/4 and/3 a/2 bigger/1 ./1 
+Windows 7||negative||my/3 laptop/2 with/1 crashed/1 and/1 i/1 did/1 not/1 want/1 windows/1 8/1 ./1 
+Windows 8||negative||my/11 laptop/10 with/9 windows/8 7/7 crashed/6 and/5 i/4 did/3 not/2 want/1 ./1 
+install||positive||easy/2 to/1 also/1 small/1 to/1 leave/1 anywhere/1 at/1 your/1 bedroom/1 also/1 very/1 easy/1 to/1 configure/1 for/1 adsl/1 cable/1 or/1 wifi/1 ./1 
+configure for ADSl cable or wifi||positive||easy/15 to/14 install/13 also/12 small/11 to/10 leave/9 anywhere/8 at/7 your/6 bedroom/5 also/4 very/3 easy/2 to/1 ./1 
+packing||positive||nice/1 ./1 
+windows||positive||i/14 switched/13 to/12 this/11 because/10 i/9 wanted/8 something/7 different/6 ,/5 even/4 though/3 i/2 miss/1 ./1 
+iDVD||negative||apple/4 no/3 longer/2 includes/1 with/1 the/1 computer/1 and/1 furthermore/1 ,/1 apple/1 does/1 n't/1 even/1 offer/1 it/1 anymore/1 !/1 
+Windows 7||positive||i/3 also/2 wanted/1 ,/1 which/1 this/1 one/1 has/1 ./1 
+Mac system||negative||at/12 first/11 ,/10 i/9 feel/8 a/7 little/6 bit/5 uncomfortable/4 in/3 using/2 the/1 ./1 
+windows||neutral||i/6 am/5 used/4 to/3 computers/2 with/1 so/1 i/1 am/1 having/1 a/1 little/1 difficulty/1 finding/1 my/1 way/1 around/1 ./1 
+works||positive||it/2 just/1 out/1 of/1 the/1 box/1 and/1 you/1 have/1 a/1 lot/1 of/1 cool/1 software/1 included/1 with/1 the/1 os/1 ./1 
+software||positive||it/14 just/13 works/12 out/11 of/10 the/9 box/8 and/7 you/6 have/5 a/4 lot/3 of/2 cool/1 included/1 with/1 the/1 os/1 ./1 
+OS||neutral||it/18 just/17 works/16 out/15 of/14 the/13 box/12 and/11 you/10 have/9 a/8 lot/7 of/6 cool/5 software/4 included/3 with/2 the/1 ./1 
+works||positive||its/8 as/7 advertised/6 on/5 here/4 .../3 ../2 it/1 great/1 and/1 is/1 not/1 a/1 waste/1 of/1 money/1 !/1 
+Runs||positive||like/1 a/1 champ/1 .../1 ../1 
+price||positive||premium/1 for/1 the/1 os/1 more/1 than/1 anything/1 else/1 ./1 
+OS||neutral||premium/4 price/3 for/2 the/1 more/1 than/1 anything/1 else/1 ./1 
+touch pad||positive||i/7 was/6 a/5 little/4 concerned/3 about/2 the/1 based/1 on/1 reviews/1 ,/1 but/1 i/1 've/1 found/1 it/1 fine/1 to/1 work/1 with/1 ./1 
+headphones||neutral||the/16 sound/15 as/14 mentioned/13 earlier/12 is/11 n't/10 the/9 best/8 ,/7 but/6 it/5 can/4 be/3 solved/2 with/1 ./1 
+OS||positive||however/8 ,/7 the/6 experience/5 was/4 great/3 since/2 the/1 does/1 not/1 become/1 unstable/1 and/1 the/1 application/1 will/1 simply/1 shutdown/1 and/1 reopen/1 ./1 
+application||positive||however/15 ,/14 the/13 experience/12 was/11 great/10 since/9 the/8 os/7 does/6 not/5 become/4 unstable/3 and/2 the/1 will/1 simply/1 shutdown/1 and/1 reopen/1 ./1 
+price||negative||if/7 you/6 ask/5 me/4 ,/3 for/2 this/1 it/1 should/1 be/1 included/1 ./1 
+battery||negative||the/1 is/1 not/1 as/1 shown/1 in/1 the/1 product/1 photos/1 ./1 
+Shipping||positive||was/1 quick/1 and/1 product/1 described/1 was/1 the/1 product/1 sent/1 and/1 so/1 much/1 more/1 .../1 
+retina display display||positive||the/1 make/1 pictures/1 i/1 took/1 years/1 ago/1 jaw/1 dropping/1 ./1 
+compact computing||positive||the/9 mac/8 mini/7 is/6 probably/5 the/4 simplest/3 example/2 of/1 out/1 there/1 ./1 
+performance and feature set of the hardware||neutral||instead/9 ,/8 i/7 'll/6 focus/5 more/4 on/3 the/2 actual/1 itself/1 so/1 you/1 can/1 make/1 an/1 educated/1 decision/1 on/1 which/1 mac/1 to/1 buy/1 ./1 
+ports||neutral||other/1 include/1 firewire/1 800/1 ,/1 gigabit/1 ethernet/1 ,/1 magsafe/1 port/1 ,/1 microphone/1 jack/1 ./1 
+FireWire 800||neutral||other/3 ports/2 include/1 ,/1 gigabit/1 ethernet/1 ,/1 magsafe/1 port/1 ,/1 microphone/1 jack/1 ./1 
+Gigabit Ethernet||neutral||other/6 ports/5 include/4 firewire/3 800/2 ,/1 ,/1 magsafe/1 port/1 ,/1 microphone/1 jack/1 ./1 
+MagSafe port||neutral||other/9 ports/8 include/7 firewire/6 800/5 ,/4 gigabit/3 ethernet/2 ,/1 ,/1 microphone/1 jack/1 ./1 
+Microphone jack||neutral||other/12 ports/11 include/10 firewire/9 800/8 ,/7 gigabit/6 ethernet/5 ,/4 magsafe/3 port/2 ,/1 ./1 
+ventilation system||negative||additionally/6 ,/5 there/4 is/3 barely/2 a/1 in/1 the/1 computer/1 ,/1 and/1 even/1 the/1 simple/1 activity/1 of/1 watching/1 videos/1 let/1 alone/1 playing/1 steam/1 games/1 causes/1 the/1 laptop/1 to/1 get/1 very/1 very/1 hot/1 ,/1 and/1 in/1 fact/1 impossible/1 to/1 keep/1 on/1 lap/1 ./1 
+watching videos||neutral||additionally/18 ,/17 there/16 is/15 barely/14 a/13 ventilation/12 system/11 in/10 the/9 computer/8 ,/7 and/6 even/5 the/4 simple/3 activity/2 of/1 let/1 alone/1 playing/1 steam/1 games/1 causes/1 the/1 laptop/1 to/1 get/1 very/1 very/1 hot/1 ,/1 and/1 in/1 fact/1 impossible/1 to/1 keep/1 on/1 lap/1 ./1 
+playing steam games||neutral||additionally/22 ,/21 there/20 is/19 barely/18 a/17 ventilation/16 system/15 in/14 the/13 computer/12 ,/11 and/10 even/9 the/8 simple/7 activity/6 of/5 watching/4 videos/3 let/2 alone/1 causes/1 the/1 laptop/1 to/1 get/1 very/1 very/1 hot/1 ,/1 and/1 in/1 fact/1 impossible/1 to/1 keep/1 on/1 lap/1 ./1 
+Acer support||neutral||chatting/2 with/1 ,/1 i/1 was/1 advised/1 the/1 problem/1 was/1 corrupted/1 operating/1 system/1 files/1 ./1 
+operating system files||neutral||chatting/12 with/11 acer/10 support/9 ,/8 i/7 was/6 advised/5 the/4 problem/3 was/2 corrupted/1 ./1 
+keys||neutral||it/17 's/16 been/15 a/14 couple/13 weeks/12 since/11 the/10 purchase/9 and/8 i/7 'm/6 struggle/5 with/4 finding/3 the/2 correct/1 (/1 but/1 that/1 was/1 expected/1 )/1 ./1 
+OS||negative||many/6 people/5 complain/4 about/3 the/2 new/1 ,/1 and/1 it/1 's/1 urgent/1 for/1 apple/1 to/1 fix/1 it/1 asap/1 !/1 
+Lion||positive||now/6 that/5 i/4 have/3 upgraded/2 to/1 i/1 am/1 much/1 happier/1 about/1 mac/1 os/1 and/1 have/1 just/1 bought/1 an/1 imac/1 for/1 office/1 ./1 
+MAC OS||positive||now/12 that/11 i/10 have/9 upgraded/8 to/7 lion/6 i/5 am/4 much/3 happier/2 about/1 and/1 have/1 just/1 bought/1 an/1 imac/1 for/1 office/1 ./1 
+RAM||positive||user/2 upgradeable/1 and/1 hdd/1 ./1 
+HDD||positive||user/4 upgradeable/3 ram/2 and/1 ./1 
+CD/DVD player||positive||but/7 i/6 wanted/5 the/4 pro/3 for/2 the/1 ./1 
+os.x||neutral||i/17 was/16 a/15 little/14 worry/13 at/12 first/11 because/10 i/9 do/8 n't/7 have/6 a/5 lot/4 of/3 experience/2 with/1 and/1 windows/1 has/1 always/1 been/1 second/1 nature/1 to/1 me/1 after/1 many/1 years/1 of/1 using/1 windows/1 ./1 
+windows||positive||i/19 was/18 a/17 little/16 worry/15 at/14 first/13 because/12 i/11 do/10 n't/9 have/8 a/7 lot/6 of/5 experience/4 with/3 os.x/2 and/1 has/1 always/1 been/1 second/1 nature/1 to/1 me/1 after/1 many/1 years/1 of/1 using/1 windows/1 ./1 
+windows||neutral||i/32 was/31 a/30 little/29 worry/28 at/27 first/26 because/25 i/24 do/23 n't/22 have/21 a/20 lot/19 of/18 experience/17 with/16 os.x/15 and/14 windows/13 has/12 always/11 been/10 second/9 nature/8 to/7 me/6 after/5 many/4 years/3 of/2 using/1 ./1 
+OS||neutral||with/8 the/7 softwares/6 supporting/5 the/4 use/3 of/2 other/1 makes/1 it/1 much/1 better/1 ./1 
+softwares||neutral||with/2 the/1 supporting/1 the/1 use/1 of/1 other/1 os/1 makes/1 it/1 much/1 better/1 ./1 
+Mac OS X 10.8 `` Mountain Lion ''||neutral||i/4 then/3 upgraded/2 to/1 ./1 
+performance||positive||i/17 was/16 considering/15 buying/14 the/13 air/12 ,/11 but/10 in/9 reality/8 ,/7 this/6 one/5 has/4 a/3 more/2 powerful/1 and/1 seems/1 much/1 more/1 convenient/1 ,/1 even/1 though/1 it/1 's/1 about/1 .20/1 inch/1 thicker/1 and/1 2/1 lbs/1 heavier/1 ./1 
+built in screen size||neutral||at/17 home/16 and/15 the/14 office/13 it/12 gets/11 plugged/10 into/9 an/8 external/7 24/6 ''/5 lcd/4 screen/3 ,/2 so/1 is/1 not/1 terribly/1 important/1 ./1 
+external 24 '' LCD screen||neutral||at/10 home/9 and/8 the/7 office/6 it/5 gets/4 plugged/3 into/2 an/1 ,/1 so/1 built/1 in/1 screen/1 size/1 is/1 not/1 terribly/1 important/1 ./1 
+install software||negative||just/10 beware/9 no/8 dvd/7 slot/6 so/5 when/4 i/3 went/2 to/1 i/1 had/1 on/1 cd/1 i/1 could/1 n't/1 ./1 
+DVD slot||neutral||just/3 beware/2 no/1 so/1 when/1 i/1 went/1 to/1 install/1 software/1 i/1 had/1 on/1 cd/1 i/1 could/1 n't/1 ./1 
+word processing program||neutral||i/27 bought/26 it/25 to/24 be/23 able/22 to/21 dedicate/20 a/19 small/18 ,/17 portable/16 laptop/15 to/14 my/13 writing/12 and/11 was/10 surprised/9 to/8 learn/7 that/6 i/5 needed/4 to/3 buy/2 a/1 to/1 do/1 so/1 ./1 
+third-generation CPU ( `` Ivy Bridge '' )||neutral||this/8 version/7 of/6 macbook/5 pro/4 runs/3 on/2 a/1 ,/1 not/1 the/1 latest/1 fourth-generation/1 haswell/1 cpu/1 the/1 2013/1 version/1 has/1 ./1 
+fourth-generation Haswell CPU||neutral||this/20 version/19 of/18 macbook/17 pro/16 runs/15 on/14 a/13 third-generation/12 cpu/11 (/10 ``/9 ivy/8 bridge/7 ''/6 )/5 ,/4 not/3 the/2 latest/1 the/1 2013/1 version/1 has/1 ./1 
+Cd Rom||neutral||no/1 in/1 the/1 new/1 version/1 there/1 's/1 no/1 way/1 i/1 'm/1 spending/1 that/1 kind/1 of/1 money/1 on/1 something/1 has/1 less/1 features/1 than/1 the/1 older/1 version/1 ./1 
+features||negative||no/22 cd/21 rom/20 in/19 the/18 new/17 version/16 there/15 's/14 no/13 way/12 i/11 'm/10 spending/9 that/8 kind/7 of/6 money/5 on/4 something/3 has/2 less/1 than/1 the/1 older/1 version/1 ./1 
+volume||negative||the/1 is/1 really/1 low/1 to/1 low/1 for/1 a/1 laptopwas/1 not/1 expectin/1 t/1 volume/1 to/1 be/1 so/1 lowan/1 i/1 hate/1 that/1 about/1 this/1 computer/1 
+volume||negative||the/13 volume/12 is/11 really/10 low/9 to/8 low/7 for/6 a/5 laptopwas/4 not/3 expectin/2 t/1 to/1 be/1 so/1 lowan/1 i/1 hate/1 that/1 about/1 this/1 computer/1 
+case||neutral||and/15 its/14 not/13 hard/12 to/11 accidentally/10 bang/9 it/8 against/7 something/6 so/5 i/4 recommend/3 getting/2 a/1 to/1 protect/1 it/1 ./1 
+price||positive||i/6 got/5 this/4 at/3 an/2 amazing/1 from/1 amazon/1 and/1 it/1 arrived/1 just/1 in/1 time/1 ./1 
+log into the system||negative||every/3 time/2 i/1 after/1 a/1 few/1 hours/1 ,/1 there/1 is/1 this/1 endlessly/1 frustrating/1 process/1 that/1 i/1 have/1 to/1 go/1 through/1 ./1 
+21 '' LED screen||neutral||put/6 a/5 ssd/4 and/3 use/2 a/1 ,/1 this/1 set/1 up/1 is/1 silky/1 smooth/1 !/1 
+SSD||neutral||put/2 a/1 and/1 use/1 a/1 21/1 ''/1 led/1 screen/1 ,/1 this/1 set/1 up/1 is/1 silky/1 smooth/1 !/1 
+set up||positive||put/12 a/11 ssd/10 and/9 use/8 a/7 21/6 ''/5 led/4 screen/3 ,/2 this/1 is/1 silky/1 smooth/1 !/1 
+case||negative||the/1 is/1 now/1 slightly/1 larger/1 than/1 the/1 previous/1 generation/1 ,/1 but/1 the/1 lack/1 of/1 an/1 external/1 power/1 supply/1 justifies/1 the/1 small/1 increase/1 in/1 size/1 ./1 
+external power supply||neutral||the/16 case/15 is/14 now/13 slightly/12 larger/11 than/10 the/9 previous/8 generation/7 ,/6 but/5 the/4 lack/3 of/2 an/1 justifies/1 the/1 small/1 increase/1 in/1 size/1 ./1 
+wireless mouse||neutral||i/5 had/4 to/3 buy/2 a/1 to/1 go/1 with/1 it/1 ,/1 as/1 i/1 am/1 old/1 school/1 and/1 hate/1 the/1 pad/1 ,/1 but/1 knew/1 that/1 before/1 i/1 bought/1 it/1 ,/1 now/1 it/1 works/1 great/1 ,/1 need/1 to/1 get/1 adjusted/1 to/1 the/1 key/1 board/1 ,/1 as/1 i/1 am/1 used/1 to/1 a/1 bigger/1 one/1 and/1 pounding/1 ./1 
+pad||negative||i/20 had/19 to/18 buy/17 a/16 wireless/15 mouse/14 to/13 go/12 with/11 it/10 ,/9 as/8 i/7 am/6 old/5 school/4 and/3 hate/2 the/1 ,/1 but/1 knew/1 that/1 before/1 i/1 bought/1 it/1 ,/1 now/1 it/1 works/1 great/1 ,/1 need/1 to/1 get/1 adjusted/1 to/1 the/1 key/1 board/1 ,/1 as/1 i/1 am/1 used/1 to/1 a/1 bigger/1 one/1 and/1 pounding/1 ./1 
+works||positive||i/32 had/31 to/30 buy/29 a/28 wireless/27 mouse/26 to/25 go/24 with/23 it/22 ,/21 as/20 i/19 am/18 old/17 school/16 and/15 hate/14 the/13 pad/12 ,/11 but/10 knew/9 that/8 before/7 i/6 bought/5 it/4 ,/3 now/2 it/1 great/1 ,/1 need/1 to/1 get/1 adjusted/1 to/1 the/1 key/1 board/1 ,/1 as/1 i/1 am/1 used/1 to/1 a/1 bigger/1 one/1 and/1 pounding/1 ./1 
+key board||neutral||i/41 had/40 to/39 buy/38 a/37 wireless/36 mouse/35 to/34 go/33 with/32 it/31 ,/30 as/29 i/28 am/27 old/26 school/25 and/24 hate/23 the/22 pad/21 ,/20 but/19 knew/18 that/17 before/16 i/15 bought/14 it/13 ,/12 now/11 it/10 works/9 great/8 ,/7 need/6 to/5 get/4 adjusted/3 to/2 the/1 ,/1 as/1 i/1 am/1 used/1 to/1 a/1 bigger/1 one/1 and/1 pounding/1 ./1 
+cost of ownership||neutral||when/9 considering/8 a/7 mac/6 ,/5 look/4 at/3 the/2 total/1 and/1 not/1 just/1 the/1 initial/1 price/1 tag/1 ./1 
+price tag||neutral||when/17 considering/16 a/15 mac/14 ,/13 look/12 at/11 the/10 total/9 cost/8 of/7 ownership/6 and/5 not/4 just/3 the/2 initial/1 ./1 
+features||positive||has/4 all/3 the/2 other/1 i/1 wanted/1 including/1 a/1 vga/1 port/1 ,/1 hdmi/1 ,/1 ethernet/1 and/1 3/1 usb/1 ports/1 ./1 
+VGA port||neutral||has/9 all/8 the/7 other/6 features/5 i/4 wanted/3 including/2 a/1 ,/1 hdmi/1 ,/1 ethernet/1 and/1 3/1 usb/1 ports/1 ./1 
+HDMI||neutral||has/12 all/11 the/10 other/9 features/8 i/7 wanted/6 including/5 a/4 vga/3 port/2 ,/1 ,/1 ethernet/1 and/1 3/1 usb/1 ports/1 ./1 
+ethernet||neutral||has/14 all/13 the/12 other/11 features/10 i/9 wanted/8 including/7 a/6 vga/5 port/4 ,/3 hdmi/2 ,/1 and/1 3/1 usb/1 ports/1 ./1 
+USB ports||neutral||has/17 all/16 the/15 other/14 features/13 i/12 wanted/11 including/10 a/9 vga/8 port/7 ,/6 hdmi/5 ,/4 ethernet/3 and/2 3/1 ./1 
+rubber pads||negative||the/10 only/9 thing/8 i/7 dislike/6 about/5 this/4 laptop/3 are/2 the/1 found/1 on/1 the/1 bottom/1 of/1 the/1 computer/1 for/1 grip/1 ./1 
+price||neutral||it/7 's/6 a/5 decent/4 computer/3 for/2 the/1 and/1 hopefully/1 it/1 will/1 last/1 a/1 long/1 time/1 ./1 
+heat output||positive||the/6 nicest/5 part/4 is/3 the/2 low/1 and/1 ultra/1 quiet/1 operation/1 ./1 
+operation||positive||the/11 nicest/10 part/9 is/8 the/7 low/6 heat/5 output/4 and/3 ultra/2 quiet/1 ./1 
+upgrade the ram||positive||i/2 will/1 myself/1 (/1 because/1 with/1 this/1 model/1 you/1 can/1 you/1 can/1 do/1 it/1 )/1 later/1 on/1 ./1 
+price||positive||the/1 is/1 200/1 dollars/1 down/1 ./1 
+built-in mic||neutral||this/7 mac/6 mini/5 does/4 not/3 have/2 a/1 ,/1 and/1 it/1 would/1 seem/1 that/1 its/1 mac/1 os/1 10.9/1 does/1 not/1 handle/1 external/1 microphones/1 properly/1 ./1 
+Mac OS 10.9||negative||this/16 mac/15 mini/14 does/13 not/12 have/11 a/10 built-in/9 mic/8 ,/7 and/6 it/5 would/4 seem/3 that/2 its/1 does/1 not/1 handle/1 external/1 microphones/1 properly/1 ./1 
+external microphones||neutral||this/22 mac/21 mini/20 does/19 not/18 have/17 a/16 built-in/15 mic/14 ,/13 and/12 it/11 would/10 seem/9 that/8 its/7 mac/6 os/5 10.9/4 does/3 not/2 handle/1 properly/1 ./1 
+features||neutral||a/3 lot/2 of/1 and/1 shortcuts/1 on/1 the/1 mbp/1 that/1 i/1 was/1 never/1 exposed/1 to/1 on/1 a/1 normal/1 pc/1 ./1 
+shortcuts||neutral||a/5 lot/4 of/3 features/2 and/1 on/1 the/1 mbp/1 that/1 i/1 was/1 never/1 exposed/1 to/1 on/1 a/1 normal/1 pc/1 ./1 
+IOS system||positive||was/27 n't/26 sure/25 if/24 i/23 was/22 going/21 to/20 like/19 it/18 much/17 less/16 love/15 it/14 so/13 i/12 went/11 to/10 a/9 local/8 best/7 buy/6 and/5 played/4 around/3 with/2 the/1 on/1 a/1 mac/1 pro/1 and/1 it/1 was/1 totally/1 unique/1 and/1 different/1 ./1 
+resolution||positive||air/3 has/2 higher/1 but/1 the/1 fonts/1 are/1 small/1 ./1 
+fonts||negative||air/6 has/5 higher/4 resolution/3 but/2 the/1 are/1 small/1 ./1 
+working||positive||with/1 mac/1 is/1 so/1 much/1 easier/1 ,/1 so/1 many/1 cool/1 features/1 ./1 
+features||positive||working/11 with/10 mac/9 is/8 so/7 much/6 easier/5 ,/4 so/3 many/2 cool/1 ./1 
+brightness||positive||i/3 like/2 the/1 and/1 adjustments/1 ./1 
+adjustments||positive||i/5 like/4 the/3 brightness/2 and/1 ./1 
+CD/DVD player||neutral||i/7 only/6 wish/5 this/4 mac/3 had/2 a/1 built/1 in/1 ./1 
+backlit keys||negative||the/12 only/11 thing/10 i/9 miss/8 is/7 that/6 my/5 old/4 alienware/3 laptop/2 had/1 ./1 
+`` Home/End '' type keys||neutral||the/7 only/6 thing/5 i/4 miss/3 are/2 the/1 and/1 other/1 things/1 that/1 i/1 grew/1 accustomed/1 to/1 after/1 so/1 long/1 ./1 
+Microsoft Word||neutral||so/12 happy/11 with/10 this/9 purchase/8 ,/7 i/6 just/5 wish/4 it/3 came/2 with/1 ./1 
+memory||positive||it/3 has/2 enough/1 and/1 speed/1 to/1 run/1 my/1 business/1 with/1 all/1 the/1 flexibility/1 that/1 comes/1 with/1 a/1 laptop/1 ./1 
+speed||positive||it/5 has/4 enough/3 memory/2 and/1 to/1 run/1 my/1 business/1 with/1 all/1 the/1 flexibility/1 that/1 comes/1 with/1 a/1 laptop/1 ./1 
+flexibility||positive||it/13 has/12 enough/11 memory/10 and/9 speed/8 to/7 run/6 my/5 business/4 with/3 all/2 the/1 that/1 comes/1 with/1 a/1 laptop/1 ./1 
+speed||positive||the/1 ,/1 the/1 simplicity/1 ,/1 the/1 design../1 it/1 is/1 lightyears/1 ahead/1 of/1 any/1 pc/1 i/1 have/1 ever/1 owned/1 ./1 
+simplicity||positive||the/4 speed/3 ,/2 the/1 ,/1 the/1 design../1 it/1 is/1 lightyears/1 ahead/1 of/1 any/1 pc/1 i/1 have/1 ever/1 owned/1 ./1 
+design||positive||the/7 speed/6 ,/5 the/4 simplicity/3 ,/2 the/1 ../1 it/1 is/1 lightyears/1 ahead/1 of/1 any/1 pc/1 i/1 have/1 ever/1 owned/1 ./1 
+battery life||positive||the/1 is/1 excellent/1 ,/1 the/1 display/1 is/1 excellent/1 ,/1 and/1 downloading/1 apps/1 is/1 a/1 breeze/1 ./1 
+display||positive||the/7 battery/6 life/5 is/4 excellent/3 ,/2 the/1 is/1 excellent/1 ,/1 and/1 downloading/1 apps/1 is/1 a/1 breeze/1 ./1 
+downloading apps||positive||the/12 battery/11 life/10 is/9 excellent/8 ,/7 the/6 display/5 is/4 excellent/3 ,/2 and/1 is/1 a/1 breeze/1 ./1 
+screen||positive||the/1 ,/1 the/1 software/1 and/1 the/1 smoothness/1 of/1 the/1 operating/1 system/1 ./1 
+software||positive||the/4 screen/3 ,/2 the/1 and/1 the/1 smoothness/1 of/1 the/1 operating/1 system/1 ./1 
+operating system||positive||the/10 screen/9 ,/8 the/7 software/6 and/5 the/4 smoothness/3 of/2 the/1 ./1 
+slim plastic case||neutral||i/10 have/9 dropped/8 mine/7 a/6 couple/5 times/4 with/3 only/2 a/1 covering/1 it/1 ./1 
+recovery USB stick||neutral||i/4 also/3 made/2 a/1 ./1 
+bass||negative||but/6 with/5 this/4 laptop/3 ,/2 the/1 is/1 very/1 weak/1 and/1 the/1 sound/1 comes/1 out/1 sounding/1 tinny/1 ./1 
+sound||negative||but/12 with/11 this/10 laptop/9 ,/8 the/7 bass/6 is/5 very/4 weak/3 and/2 the/1 comes/1 out/1 sounding/1 tinny/1 ./1 
+built quality||positive||the/1 is/1 really/1 good/1 ,/1 i/1 was/1 so/1 happy/1 and/1 excited/1 about/1 this/1 product/1 ./1 
+performance||positive||i/5 am/4 loving/3 the/2 fast/1 also/1 ./1 
+Bluetooth interface||negative||further/8 ,/7 this/6 mac/5 mini/4 has/3 a/2 sloppy/1 (/1 courtesy/1 of/1 the/1 mac/1 os/1 )/1 and/1 the/1 range/1 is/1 poor/1 ./1 
+Mac OS||negative||further/14 ,/13 this/12 mac/11 mini/10 has/9 a/8 sloppy/7 bluetooth/6 interface/5 (/4 courtesy/3 of/2 the/1 )/1 and/1 the/1 range/1 is/1 poor/1 ./1 
+range||negative||further/19 ,/18 this/17 mac/16 mini/15 has/14 a/13 sloppy/12 bluetooth/11 interface/10 (/9 courtesy/8 of/7 the/6 mac/5 os/4 )/3 and/2 the/1 is/1 poor/1 ./1 
+start menu||neutral||if/14 you/13 start/12 on/11 the/10 far/9 right/8 side/7 and/6 scroll/5 to/4 your/3 left/2 the/1 will/1 automatically/1 come/1 up/1 ./1 
+RAM||negative||my/10 only/9 gripe/8 would/7 be/6 the/5 need/4 to/3 add/2 more/1 ./1 
+touch screen||neutral||fine/5 if/4 you/3 have/2 a/1 ./1 
+games||neutral||as/11 far/10 as/9 user/8 type/7 -/6 i/5 dabble/4 in/3 everything/2 from/1 (/1 wow/1 )/1 to/1 photoshop/1 ,/1 but/1 nothing/1 professionally/1 ./1 
+Photoshop||neutral||as/16 far/15 as/14 user/13 type/12 -/11 i/10 dabble/9 in/8 everything/7 from/6 games/5 (/4 wow/3 )/2 to/1 ,/1 but/1 nothing/1 professionally/1 ./1 
+`` WLAN '' card||neutral||i/3 re-seated/2 the/1 inside/1 and/1 re-installed/1 the/1 lan/1 device/1 drivers/1 ./1 
+LAN device drivers||neutral||i/11 re-seated/10 the/9 ``/8 wlan/7 ''/6 card/5 inside/4 and/3 re-installed/2 the/1 ./1 
+built||positive||this/11 by/10 far/9 beats/8 any/7 computer/6 out/5 on/4 the/3 market/2 today/1 well/1 ,/1 battery/1 life/1 amazing/1 ./1 
+battery life||positive||this/14 by/13 far/12 beats/11 any/10 computer/9 out/8 on/7 the/6 market/5 today/4 built/3 well/2 ,/1 amazing/1 ./1 
+OS||positive||the/1 is/1 easy/1 ,/1 and/1 offers/1 all/1 kinds/1 of/1 surprises/1 ./1 
+Apple Customer Support||neutral||i/4 had/3 to/2 get/1 to/1 correct/1 the/1 problem/1 ./1 
+Firewire 800||positive||a/4 veryimportant/3 feature/2 is/1 which/1 in/1 my/1 experience/1 works/1 better/1 then/1 usb3/1 (/1 in/1 pc/1 enabled/1 with/1 usb3/1 )/1 i/1 was/1 not/1 originally/1 sold/1 on/1 the/1 mac/1 os/1 i/1 felt/1 it/1 was/1 inferior/1 in/1 many/1 ways/1 to/1 windows/1 7/1 ./1 
+USB3||negative||a/13 veryimportant/12 feature/11 is/10 firewire/9 800/8 which/7 in/6 my/5 experience/4 works/3 better/2 then/1 (/1 in/1 pc/1 enabled/1 with/1 usb3/1 )/1 i/1 was/1 not/1 originally/1 sold/1 on/1 the/1 mac/1 os/1 i/1 felt/1 it/1 was/1 inferior/1 in/1 many/1 ways/1 to/1 windows/1 7/1 ./1 
+USB3||neutral||a/19 veryimportant/18 feature/17 is/16 firewire/15 800/14 which/13 in/12 my/11 experience/10 works/9 better/8 then/7 usb3/6 (/5 in/4 pc/3 enabled/2 with/1 )/1 i/1 was/1 not/1 originally/1 sold/1 on/1 the/1 mac/1 os/1 i/1 felt/1 it/1 was/1 inferior/1 in/1 many/1 ways/1 to/1 windows/1 7/1 ./1 
+MAC OS||negative||a/28 veryimportant/27 feature/26 is/25 firewire/24 800/23 which/22 in/21 my/20 experience/19 works/18 better/17 then/16 usb3/15 (/14 in/13 pc/12 enabled/11 with/10 usb3/9 )/8 i/7 was/6 not/5 originally/4 sold/3 on/2 the/1 i/1 felt/1 it/1 was/1 inferior/1 in/1 many/1 ways/1 to/1 windows/1 7/1 ./1 
+Windows 7||positive||a/39 veryimportant/38 feature/37 is/36 firewire/35 800/34 which/33 in/32 my/31 experience/30 works/29 better/28 then/27 usb3/26 (/25 in/24 pc/23 enabled/22 with/21 usb3/20 )/19 i/18 was/17 not/16 originally/15 sold/14 on/13 the/12 mac/11 os/10 i/9 felt/8 it/7 was/6 inferior/5 in/4 many/3 ways/2 to/1 ./1 
+iTunes||positive||i/2 like/1 ,/1 the/1 apparent/1 security/1 ,/1 the/1 mini/1 form/1 factor/1 ,/1 all/1 the/1 nice/1 graphics/1 stuff/1 ./1 
+security||positive||i/6 like/5 itunes/4 ,/3 the/2 apparent/1 ,/1 the/1 mini/1 form/1 factor/1 ,/1 all/1 the/1 nice/1 graphics/1 stuff/1 ./1 
+Mini form factor||positive||i/9 like/8 itunes/7 ,/6 the/5 apparent/4 security/3 ,/2 the/1 ,/1 all/1 the/1 nice/1 graphics/1 stuff/1 ./1 
+graphics stuff||positive||i/16 like/15 itunes/14 ,/13 the/12 apparent/11 security/10 ,/9 the/8 mini/7 form/6 factor/5 ,/4 all/3 the/2 nice/1 ./1 
+card reader||negative||the/6 first/5 time/4 i/3 used/2 the/1 it/1 took/1 half/1 an/1 hour/1 and/1 a/1 pair/1 of/1 tweezers/1 to/1 remove/1 the/1 card/1 ./1 
+remove the card||negative||the/19 first/18 time/17 i/16 used/15 the/14 card/13 reader/12 it/11 took/10 half/9 an/8 hour/7 and/6 a/5 pair/4 of/3 tweezers/2 to/1 ./1 
+spinning hard disk||neutral||after/3 replacing/2 the/1 with/1 an/1 ssd/1 drive/1 ,/1 my/1 mac/1 is/1 just/1 flying/1 ./1 
+ssd drive||positive||after/8 replacing/7 the/6 spinning/5 hard/4 disk/3 with/2 an/1 ,/1 my/1 mac/1 is/1 just/1 flying/1 ./1 
+HDMI||neutral||i/6 know/5 some/4 people/3 complained/2 about/1 issues/1 but/1 they/1 released/1 a/1 firmware/1 patch/1 to/1 address/1 that/1 issue/1 ./1 
+firmware patch||neutral||i/12 know/11 some/10 people/9 complained/8 about/7 hdmi/6 issues/5 but/4 they/3 released/2 a/1 to/1 address/1 that/1 issue/1 ./1 
+specs||neutral||with/16 the/15 needs/14 of/13 a/12 professional/11 photographer/10 i/9 generally/8 need/7 to/6 keep/5 up/4 with/3 the/2 best/1 ./1 
+packing||positive||and/1 everything/1 was/1 perfect/1 
+mother boards||neutral||i/21 called/20 toshiba/19 where/18 i/17 gave/16 them/15 the/14 serial/13 number/12 and/11 they/10 informed/9 me/8 that/7 they/6 were/5 having/4 issues/3 with/2 the/1 ./1 
+Mother Board||negative||i/9 seem/8 to/7 be/6 having/5 repeat/4 problems/3 as/2 the/1 in/1 this/1 one/1 is/1 diagnosed/1 as/1 faulty/1 ,/1 related/1 to/1 the/1 graphics/1 card/1 ./1 
+graphics card||negative||i/22 seem/21 to/20 be/19 having/18 repeat/17 problems/16 as/15 the/14 mother/13 board/12 in/11 this/10 one/9 is/8 diagnosed/7 as/6 faulty/5 ,/4 related/3 to/2 the/1 ./1 
+4G of RAM||neutral||it/4 also/3 comes/2 with/1 but/1 if/1 you/1 're/1 like/1 me/1 you/1 want/1 to/1 max/1 that/1 out/1 so/1 i/1 immediately/1 put/1 8g/1 of/1 ram/1 in/1 her/1 and/1 i/1 've/1 never/1 used/1 a/1 computer/1 that/1 performs/1 better/1 ./1 
+8G of RAM||neutral||it/23 also/22 comes/21 with/20 4g/19 of/18 ram/17 but/16 if/15 you/14 're/13 like/12 me/11 you/10 want/9 to/8 max/7 that/6 out/5 so/4 i/3 immediately/2 put/1 in/1 her/1 and/1 i/1 've/1 never/1 used/1 a/1 computer/1 that/1 performs/1 better/1 ./1 
+performs||positive||it/36 also/35 comes/34 with/33 4g/32 of/31 ram/30 but/29 if/28 you/27 're/26 like/25 me/24 you/23 want/22 to/21 max/20 that/19 out/18 so/17 i/16 immediately/15 put/14 8g/13 of/12 ram/11 in/10 her/9 and/8 i/7 've/6 never/5 used/4 a/3 computer/2 that/1 better/1 ./1 
+virtual home schooling||positive||this/8 computer/7 is/6 also/5 awesome/4 for/3 my/2 sons/1 ./1 
+Cost||negative||is/1 more/1 as/1 compared/1 to/1 other/1 brands/1 ./1 
+operating system||positive||also/4 .../3 -/2 excellent/1 -/1 size/1 and/1 weight/1 for/1 optimal/1 mobility-/1 excellent/1 durability/1 of/1 the/1 battery-/1 the/1 functions/1 provided/1 by/1 the/1 trackpad/1 is/1 unmatched/1 by/1 any/1 other/1 brand-/1 
+size||positive||also/6 .../5 -/4 excellent/3 operating/2 system-/1 and/1 weight/1 for/1 optimal/1 mobility-/1 excellent/1 durability/1 of/1 the/1 battery-/1 the/1 functions/1 provided/1 by/1 the/1 trackpad/1 is/1 unmatched/1 by/1 any/1 other/1 brand-/1 
+weight||positive||also/8 .../7 -/6 excellent/5 operating/4 system-/3 size/2 and/1 for/1 optimal/1 mobility-/1 excellent/1 durability/1 of/1 the/1 battery-/1 the/1 functions/1 provided/1 by/1 the/1 trackpad/1 is/1 unmatched/1 by/1 any/1 other/1 brand-/1 
+mobility||positive||also/11 .../10 -/9 excellent/8 operating/7 system-/6 size/5 and/4 weight/3 for/2 optimal/1 -/1 excellent/1 durability/1 of/1 the/1 battery-/1 the/1 functions/1 provided/1 by/1 the/1 trackpad/1 is/1 unmatched/1 by/1 any/1 other/1 brand-/1 
+durability of the battery||positive||also/13 .../12 -/11 excellent/10 operating/9 system-/8 size/7 and/6 weight/5 for/4 optimal/3 mobility-/2 excellent/1 -/1 the/1 functions/1 provided/1 by/1 the/1 trackpad/1 is/1 unmatched/1 by/1 any/1 other/1 brand-/1 
+functions provided by the trackpad||positive||also/18 .../17 -/16 excellent/15 operating/14 system-/13 size/12 and/11 weight/10 for/9 optimal/8 mobility-/7 excellent/6 durability/5 of/4 the/3 battery-/2 the/1 is/1 unmatched/1 by/1 any/1 other/1 brand-/1 
+hardware||positive||this/1 seems/1 to/1 be/1 better/1 than/1 the/1 imac/1 in/1 that/1 it/1 is/1 n't/1 $/1 1400/1 and/1 smaller/1 ./1 
+software||neutral||i/14 've/13 had/12 it/11 for/10 about/9 2/8 months/7 now/6 and/5 found/4 no/3 issues/2 with/1 or/1 updates/1 ./1 
+updates||neutral||i/16 've/15 had/14 it/13 for/12 about/11 2/10 months/9 now/8 and/7 found/6 no/5 issues/4 with/3 software/2 or/1 ./1 
+disc drive||neutral||the/7 latest/6 version/5 does/4 not/3 have/2 a/1 ./1 
+Screen||positive||-/1 although/1 some/1 people/1 might/1 complain/1 about/1 low/1 res/1 which/1 i/1 think/1 is/1 ridiculous/1 ./1 
+res||positive||screen/9 -/8 although/7 some/6 people/5 might/4 complain/3 about/2 low/1 which/1 i/1 think/1 is/1 ridiculous/1 ./1 
