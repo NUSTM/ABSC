@@ -7,7 +7,7 @@ Meanwhile, we provide the codes of other papers' models.
 
 ## Recent Papers
 
-1. (Effective LSTMs for Target-Dependent Sentiment Classification with Long Short Term Memory)[https://arxiv.org/abs/1512.01100]
+1. [Effective LSTMs for Target-Dependent Sentiment Classification with Long Short Term Memory](https://arxiv.org/abs/1512.01100)
 
 Duyu Tang, Bing Qin, Xiaocheng Feng, Ting Liu (COLING 2016, full paper)
 
