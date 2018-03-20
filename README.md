@@ -26,7 +26,7 @@ Meanwhile, we provide the codes of other papers' models.
 
     Peng Chen, Zhongqian Sun, Lidong Bing, Wei Yang (EMNLP 2017, full paper)
 7. [**Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention**](https://arxiv.org/abs/1802.00892)
-    Shiliang Zheng, Rui Xia
+    **Shiliang Zheng, Rui Xia (Our Paper)**
 
 
 ## source code tree
@@ -45,3 +45,38 @@ Meanwhile, we provide the codes of other papers' models.
 
 
 ## Usage
+
+Usage of codes:
+
+```
+Usage: python model/lcr.py  [options]   [parameters]
+Options:
+        --train_file_path
+        --test_file_path
+        --embedding_file_path
+        --learning_rate
+        --batch_size
+        --n_iter
+        --random_base
+        --l2_reg
+        --keep_prob1
+        --keep_prob2
+```
+
+Give the usage of **lcr.py** for example:
+
+```
+python model/lcr.py --train_file_path data/absa/laptop/laptop_2014_train.txt
+                    --test_file_path data/absa/laptop/laptop_2014_test.txt
+                    --embedding_file_path data/absa/laptop/laptop_word_embedding_42b.txt
+                    --learning_rate 0.1
+                    --batch_size 25
+                    --n_iter 50
+                    --random_base 0.1
+                    --l2_reg 0.00001
+                    --keep_prob1 0.5
+                    --keep_prob2 0.5
+```
+
+
+
