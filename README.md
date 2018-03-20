@@ -50,7 +50,11 @@ Peng Chen, Zhongqian Sun, Lidong Bing, Wei Yang (EMNLP 2017, full paper)
 [http://www.aclweb.org/anthology/D17-1048]
 
 
-## 7. Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Bilateral Attention
+## 7. Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention
+
+Shiliang Zheng, Rui Xia
+
+[https://arxiv.org/abs/1802.00892]
 
 
 
