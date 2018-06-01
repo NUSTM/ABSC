@@ -4,7 +4,7 @@
 
 This is the [Tensorflow](https://tensorflow.org) source code of our paper 
 
-Shiliang Zheng and Rui Xia. Two-side Target Representation with Target-Context Rotatory Attention for Aspect-based Sentiment Analysis. Submitted to CIKM 2018.
+Two-side Target Representation with Target-Context Rotatory Attention for Aspect-based Sentiment Analysis. Submitted to CIKM 2018.
 
 Meanwhile, we provide our implementations of some state-of-the-art ABSC models.
 
@@ -24,7 +24,7 @@ If you use this package, please cite our paper.
 
 6. Peng Chen, Zhongqian Sun, Lidong Bing, and Wei Yang. [Recurrent Attention Network on Memory for Aspect Sentiment Analysis](http://www.aclweb.org/anthology/D17-1048). EMNLP 2017.
 
-7. Shiliang Zheng and Rui Xia. Two-side Target Representation with Target-Context Rotatory Attention for Aspect-based Sentiment Analysis. Submitted to CIKM 2018.
+7. Two-side Target Representation with Target-Context Rotatory Attention for Aspect-based Sentiment Analysis. Submitted to CIKM 2018.
 
 
 ## source code tree
