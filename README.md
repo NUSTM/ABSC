@@ -6,8 +6,6 @@ This is the [Tensorflow](https://tensorflow.org) source code of our paper
 
 Shiliang Zheng, Rui Xia. Left-Center-Right Separated Neural Network for Aspect-based Sentiment Analysis with Rotatory Attention. https://arxiv.org/abs/1802.00892.
 
-Two-side Target Representation with Target-Context Rotatory Attention for Aspect-based Sentiment Analysis. Submitted to CIKM 2018.
-
 Meanwhile, we provide our implementations of some state-of-the-art ABSC models.
 
 If you use this package, please cite our paper.
