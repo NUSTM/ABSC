@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the [Tensorflow](https://tensorflow.org) our code of TNet
+This is the [Tensorflow](https://tensorflow.org) code of TNet
 
 ## Related Papers
 
